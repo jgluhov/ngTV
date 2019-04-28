@@ -4,6 +4,7 @@ import { ChannelsComponent } from './channels.component';
 import { of } from 'rxjs';
 import { Store } from '@ngrx/store';
 import { IChannel } from '@interfaces/channel.interface';
+import { NO_ERRORS_SCHEMA } from '@angular/core';
 
 describe('ChannelsComponent', () => {
   let component: ChannelsComponent;
@@ -19,7 +20,8 @@ describe('ChannelsComponent', () => {
       declarations: [ ChannelsComponent ],
       providers: [
         { provide: Store, useValue: store }
-      ]
+      ],
+      schemas: [ NO_ERRORS_SCHEMA ]
     })
     .compileComponents();
   }));

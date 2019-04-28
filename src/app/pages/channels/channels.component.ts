@@ -16,8 +16,6 @@ export class ChannelsComponent implements OnInit {
 
   ngOnInit() {
     this.channels$ = this.store.pipe(select(fromChannels.selectAll));
-
-    this.channels$.subscribe(console.log);
   }
 
 }

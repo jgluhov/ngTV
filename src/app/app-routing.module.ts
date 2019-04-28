@@ -8,6 +8,14 @@ const routes: Routes = [
     redirectTo: 'channels'
   },
   {
+    path: 'first',
+    loadChildren: './pages/first/first.module#FirstModule'
+  },
+  {
+    path: 'second',
+    loadChildren: './pages/second/second.module#SecondModule'
+  },
+  {
     path: 'channels',
     loadChildren: './pages/channels/channels.module#ChannelsModule'
   }

@@ -1,4 +1,5 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Input } from '@angular/core';
+import { IChannel } from '@interfaces/channel.interface';
 
 @Component({
   selector: 'app-channel-card',
@@ -6,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./channel-card.component.scss']
 })
 export class ChannelCardComponent implements OnInit {
-
+  @Input() channel: IChannel;
   constructor() { }
 
   ngOnInit() {
