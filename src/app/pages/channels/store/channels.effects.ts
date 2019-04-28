@@ -17,7 +17,9 @@ export class ChannelsEffects {
       ofType(channelsActions.ActionTypes.LoadChannels),
       switchMap(() => this.channelsService.getChannels()
         .pipe(
-          map((channels: IChannel[]) => new channelsActions.LoadChannelsSuccess({ channels })),
+          map((channels: IChannel[]) => {
+            return new channelsActions.LoadChannelsSuccess({ channels });
+          }),
           catchError(() => EMPTY)
         )
       )
