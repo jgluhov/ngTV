@@ -1,0 +1,3694 @@
+{
+  "total": "154",
+  "channelDetails": [
+    {
+      "genres": [
+        {
+          "genreID": "6",
+          "genreType": "7",
+          "genreName": "Федеральные"
+        }
+      ],
+      "ID": "101945458",
+      "introduce": "Первый Канал — сегодня Первый канал является не только самым масштабным, но и самым популярным телеканалом страны.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074008497b9j.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074008498yrq.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074008498du1.png"
+        ]
+      },
+      "name": "Первый канал"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "6",
+          "genreType": "7",
+          "genreName": "Федеральные"
+        }
+      ],
+      "ID": "101946710",
+      "introduce": "Россия 1 — это динамично развивающаяся телекомпания, занимающая ведущие позиции в российском вещании.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516623muj.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745166222jr.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745166236wx.png"
+        ]
+      },
+      "name": "Россия 1"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "6",
+          "genreType": "7",
+          "genreName": "Федеральные"
+        },
+        {
+          "genreID": "73",
+          "genreType": "7",
+          "genreName": "Спортивные"
+        }
+      ],
+      "ID": "101945610",
+      "introduce": "Российский федеральный общедоступный канал о спорте и здоровом образе жизни. Матч ТВ - современный, яркий и модный, в его эфире захватывающие трансляции главных спортивных событий, развлекательные передачи, посвященные спорту, программы о здоровом образе жизни. Телеканал предлагает эксклюзивный контент для разных аудиторий и возрастных групп. Матч ТВ выводит спортивное вещание в России на новый уровень, мотивирует зрителей быть частью нового спортивного движения.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516971zqe.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745169710ey.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516971ini.png"
+        ]
+      },
+      "name": "Матч ТВ"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "6",
+          "genreType": "7",
+          "genreName": "Федеральные"
+        }
+      ],
+      "ID": "101945618",
+      "introduce": "НТВ — максимальная объективность, оперативность и взвешенность, которые отличают стиль подачи новостей. Аудитория НТВ – более 100 млн. зрителей.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516824rfr.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516824omv.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516824nbv.png"
+        ]
+      },
+      "name": "НТВ"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "6",
+          "genreType": "7",
+          "genreName": "Федеральные"
+        }
+      ],
+      "ID": "101945946",
+      "introduce": "Петербург - 5 канал (5 канал) — канал последовательно развивает концепцию телевидения, отражающего пульс жизни большой страны; телевидения, уважающего интересы и проблемы миллионов жителей, предоставляющего возможность качественного интеллектуального развлечения.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517207bd7.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517206mel.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517206lef.png"
+        ]
+      },
+      "name": "Пятый канал"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "6",
+          "genreType": "7",
+          "genreName": "Федеральные"
+        }
+      ],
+      "ID": "101945982",
+      "introduce": "Россия К — концепция телеканала Россия К (Культура) исходит из глубокого содержания того слова, которое дало название каналу.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515608ffg.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515608k61.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515608eg2.png"
+        ]
+      },
+      "name": "Культура"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "6",
+          "genreType": "7",
+          "genreName": "Федеральные"
+        }
+      ],
+      "ID": "101946472",
+      "introduce": "Россия 24 — цель канала – представлять зрителям самую оперативную информацию из всех регионов страны и из-за ее пределов 24 часа в сутки.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516575khf.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516575up8.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516575iwn.png"
+        ]
+      },
+      "name": "Россия 24"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "6",
+          "genreType": "7",
+          "genreName": "Федеральные"
+        }
+      ],
+      "ID": "101946348",
+      "introduce": "Карусель — это яркий калейдоскоп из лучших образовательных и развлекательных шоу, любимых фильмов и мультфильмов, веселых викторин и игровых проектов. В увлекательной и доступной форме уникальные передачи, сочетающие образовательные, развивающие и игровые элементы, обучают юных телезрителей, активизируют творческие способности и расширяют кругозор.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745171336aj.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517133p5l.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517133nqh.png"
+        ]
+      },
+      "name": "Карусель"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "6",
+          "genreType": "7",
+          "genreName": "Федеральные"
+        }
+      ],
+      "ID": "101946456",
+      "introduce": "Общественное телевидение России (ОТР) — это федеральный информационный телеканал, освещающий основные события и развитие гражданского общества в России.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745144576ch.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074514457p3y.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074514457w7q.png"
+        ]
+      },
+      "name": "ОТР"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "6",
+          "genreType": "7",
+          "genreName": "Федеральные"
+        }
+      ],
+      "ID": "101946356",
+      "introduce": "ТВ Центр – Москва (ТВ Центр) — один из ведущих федеральных каналов. В эфире телеканала – главные новости страны, столицы, мира, качественная аналитика, острая публицистика и документалистика, лучшие классические и современные отечественные и зарубежные фильмы и сериалы, развлекательные и детские передачи.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516004tuy.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516004edm.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/2019032607451600401r.png"
+        ]
+      },
+      "name": "ТВ Центр"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "6",
+          "genreType": "7",
+          "genreName": "Федеральные"
+        }
+      ],
+      "ID": "101946530",
+      "introduce": "РЕН – один из крупнейших частных федеральных телеканалов для активной аудитории с разносторонними интересами. В программе вещания развлекательные, познавательные и общественно-политические программы, отечественные и зарубежные фильмы, музыка, спорт, лучшие сериалы.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074514643k7v.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074514642m16.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074514642n5y.png"
+        ]
+      },
+      "name": "РЕН"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "6",
+          "genreType": "7",
+          "genreName": "Федеральные"
+        },
+        {
+          "genreID": "77",
+          "genreType": "7",
+          "genreName": "Религия"
+        }
+      ],
+      "ID": "101946494",
+      "introduce": "Миссия телеканала: формирование мировоззрения и системы нравственных координат, необходимых для эффективного развития государства, на основе исконно православных ценностей. Развитие и укрепление духовно-нравственных основ российского государства.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515616nhh.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515616pm4.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515616t31.png"
+        ]
+      },
+      "name": "Спас"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "6",
+          "genreType": "7",
+          "genreName": "Федеральные"
+        }
+      ],
+      "ID": "101946546",
+      "introduce": "СТС — современное, динамичное, драйвовое телевидение. Универсальный развлекательный канал с доминантой молодежной аудитории.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517792786.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745177921i4.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517792htb.png"
+        ]
+      },
+      "name": "СТС"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "6",
+          "genreType": "7",
+          "genreName": "Федеральные"
+        }
+      ],
+      "ID": "101946430",
+      "introduce": "Домашний — первый женский тематический телеканал в России. Его программы полезны, познавательны и практичны. Стремительно развиваясь и меняясь, расширяя жанровое и тематическое разнообразие, «Домашний» остается для телезрителей востребованным каналом, ориентированным на аудиторию, ценящую домашний уют, благополучие своих близких.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745166735eq.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516673ep7.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516673sxo.png"
+        ]
+      },
+      "name": "Домашний"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "6",
+          "genreType": "7",
+          "genreName": "Федеральные"
+        }
+      ],
+      "ID": "101946650",
+      "introduce": "ТВ3 — единственный в своем роде телеканал, в эфире которого можно круглосуточно увидеть программы в жанрах фантастики, мистики и приключений, а также документальные циклы и реконструкции событий.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074514786vno.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074514786ucl.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745147865cl.png"
+        ]
+      },
+      "name": "ТВ-3"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "6",
+          "genreType": "7",
+          "genreName": "Федеральные"
+        }
+      ],
+      "ID": "101946666",
+      "introduce": "Телекомпания ПЯТНИЦА (ПЯТНИЦА) — это приятные новости, которые дарят радость и отличное настроение в любой день недели! Смешные и обаятельные герои ярких сериалов и мировых кинохитов, безумные любовные страсти самых захватывающих реалити-шоу, драгоценные слитки из «золотого фонда» развлекательного ТВ, а также разнообразные программы обо всем на свете – от кухни, моды и здоровья до приключений, мистики и спорта! Каждый день в вашем телевизоре – «ПЯТНИЦА»! Мы отменяем будни!",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745174044ff.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517404bjn.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517404gpr.png"
+        ]
+      },
+      "name": "Пятница!"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "6",
+          "genreType": "7",
+          "genreName": "Федеральные"
+        }
+      ],
+      "ID": "101946726",
+      "introduce": "Звезда — военно-патриотический телеканал.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516566teg.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516566l44.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516565te6.png"
+        ]
+      },
+      "name": "Звезда"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "6",
+          "genreType": "7",
+          "genreName": "Федеральные"
+        }
+      ],
+      "ID": "101946862",
+      "introduce": "МИР — это круглосуточный познавательный телеканал о странах Содружества и людях, которые там живут. Современная политика и экономика стран СНГ, культурные традиции и история, развлекательные передачи для всей семьи и телевикторины для детей, новейшие сериалы и классика советского кино – контент телеканала разнообразен и учитывает интересы широкой аудитории.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/2019032607451521810h.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515217oo2.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515218r5o.png"
+        ]
+      },
+      "name": "Мир"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "6",
+          "genreType": "7",
+          "genreName": "Федеральные"
+        }
+      ],
+      "ID": "101946682",
+      "introduce": null,
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516540cvn.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516540t0g.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516540zhz.png"
+        ]
+      },
+      "name": "ТНТ"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "6",
+          "genreType": "7",
+          "genreName": "Федеральные"
+        }
+      ],
+      "ID": "101946822",
+      "introduce": "МУЗ-ТВ — на телеканале «МУЗ-ТВ» 24 часа в сутки только музыка – горячие новинки кумиров миллионов и хиты, проверенные временем! «МУЗ-ТВ» – это модная музыка, клипы и концерты лучших мировых и российских артистов, музыкальные чарты, а также актуальные новости российского и западного шоу-бизнеса. Ведущие «МУЗ-ТВ» – популярные звезды российского шоу-бизнеса, среди них: Лера Кудрявцева, Алексей Чумаков, Нюша, Яна Рудковская, Митя Фомин, «Градусы», Влад Соколовский, Юлиана Караулова, Тимур Родригез и другие.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074514500nym.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074514500paa.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074514500mk8.png"
+        ]
+      },
+      "name": "МУЗ-ТВ"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "4",
+          "genreType": "7",
+          "genreName": "Детские"
+        }
+      ],
+      "ID": "101946896",
+      "introduce": "Канал Disney — круглосуточный развлекательный телеканал для всей семьи. Телеканал предлагает российским зрителям качественные развлекательные программы для всей семьи. В программной сетке федерального Канала Disney – классические и современные анимационные фильмы, семейные кинокартины, популярные мультипликационные и художественные сериалы, оригинальное кино Канала Disney, а также развлекательные программы российского производства. Для самых юных зрителей в эфире телеканала предусмотрен специальный утренний блок под названием «Узнавай» с веселыми познавательными мультсериалами.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515148rvx.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515148vdb.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515148hdd.png"
+        ]
+      },
+      "name": "Канал Disney"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "72",
+          "genreType": "7",
+          "genreName": "Хобби и досуг"
+        }
+      ],
+      "ID": "101946830",
+      "introduce": "Ю — это качественные реалити-шоу, юмористические проекты и магия, художественные и анимационные фильмы, популярные сериалы и актуальные новости.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201904/20190405/20190405095509833yhb.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201904/20190405/20190405095509833j8u.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201904/20190405/20190405095509833iqr.png"
+        ]
+      },
+      "name": "Ю"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "72",
+          "genreType": "7",
+          "genreName": "Хобби и досуг"
+        }
+      ],
+      "ID": "101946926",
+      "introduce": "2x2 — первый российский анимационный канал для «молодых взрослых». Круглосуточно на телеканале – самые нашумевшие мультсериалы последних лет: от «Симпсонов», «Футурамы», «Южного парка» до «Пол-литровой мыши» и «Облонгов».",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745144526ij.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074514452831.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074514452c8y.png"
+        ]
+      },
+      "name": "2x2"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "136",
+          "genreType": "7",
+          "genreName": "Новостные"
+        }
+      ],
+      "ID": "101946802",
+      "introduce": "МТС-Инфо — информационный канал. Полезная информация для абонентов, анонсы новых каналов в сети МТС, обучающие ролики о новых технологиях, услугах и способах их подключения.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517168076.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517168os8.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517168n68.png"
+        ]
+      },
+      "name": "МТС-ИНФО"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "136",
+          "genreType": "7",
+          "genreName": "Новостные"
+        }
+      ],
+      "ID": "101946918",
+      "introduce": "РБК ТВ — первый и единственный в России бизнес-канал. Ход торгов на российских и зарубежных площадках. Тенденции в разных отраслях экономики и бизнеса.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515444euh.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745154446b5.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515444h26.png"
+        ]
+      },
+      "name": "РБК ТВ"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "136",
+          "genreType": "7",
+          "genreName": "Новостные"
+        }
+      ],
+      "ID": "101947074",
+      "introduce": "МИР 24 — информационный, страноведческий, культурологический телеканал «МИР 24» рассказывает о событиях в странах СНГ и мира. Новости выходят каждые полчаса. В прямом эфире на телеканале национальные и конфессиональные праздники, встречи на высшем уровне, пресс-конференции и выступления первых лиц государств. Особое внимание уделяется документальным фильмам и познавательным программам, которые рассказывают обо всех сферах жизни в Содружестве.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745083522a1.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074508353vzo.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074508353b54.png"
+        ]
+      },
+      "name": "Мир 24"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "136",
+          "genreType": "7",
+          "genreName": "Новостные"
+        }
+      ],
+      "ID": "101947082",
+      "introduce": "Телеканал Совета Федерации («ВМЕСТЕ-РФ») — прямые трансляции заседаний, мнение авторитетных ньюсмейкеров, новости регионов и зарубежных парламентов, обучающие и научно-популярные программы, документальное кино, лучшие отечественные художественные фильмы и многое другое",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/2019032607451597535h.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515975knn.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/2019032607451597574e.png"
+        ]
+      },
+      "name": "Вместе-РФ"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "70",
+          "genreType": "7",
+          "genreName": "Кино и сериалы"
+        },
+        {
+          "genreID": "75",
+          "genreType": "7",
+          "genreName": "HD каналы"
+        }
+      ],
+      "ID": "101945480",
+      "introduce": "Spike – телеканал для зрителей, которые ценят качественные и современные сериалы, фильмы и шоу, и кому интересны противоречивые и харизматичные персонажи, премиальные телесериалы, заслужившие любовь зрителей и уважение критиков во всем мире.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745173970zo.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517397a4x.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517397r82.png"
+        ]
+      },
+      "name": "Spike HD"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "71",
+          "genreType": "7",
+          "genreName": "Познавательные"
+        },
+        {
+          "genreID": "75",
+          "genreType": "7",
+          "genreName": "HD каналы"
+        }
+      ],
+      "ID": "101945510",
+      "introduce": "Созданный  в 1994 году, Travel Channel вещает на 21 языке в 125 странах Европы, Ближнего Востока, Африки и Азиатско-Тихоокеанского региона.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515368x5w.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515368n4n.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515368ed8.png"
+        ]
+      },
+      "name": "Travel Channel HD"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "71",
+          "genreType": "7",
+          "genreName": "Познавательные"
+        },
+        {
+          "genreID": "75",
+          "genreType": "7",
+          "genreName": "HD каналы"
+        }
+      ],
+      "ID": "101945860",
+      "introduce": "Russian Travel Guide HD (RTG HD) - познавательный телеканал о России в формате высокой четкости представляет программы, посвященные уникальной природе и активному отдыху в разных частях страны, историческому наследию, культурным традициям и сегодняшнему дню многонационального государства.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515877xnc.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515877zix.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515877dlo.png"
+        ]
+      },
+      "name": "RTG HD"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "72",
+          "genreType": "7",
+          "genreName": "Хобби и досуг"
+        },
+        {
+          "genreID": "75",
+          "genreType": "7",
+          "genreName": "HD каналы"
+        }
+      ],
+      "ID": "101945812",
+      "introduce": "Канал о еде и кулинарии - новый подход, акцент на самые смелые и проекты в этом жанре. Эфир канала наполнен программами, получившими множество наград на различных тематических конкурсах. Повара со всего света демонстрируют свои кулинарные таланты!",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516616gk0.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516617y9x.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516617c7r.png"
+        ]
+      },
+      "name": "Food Network HD"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "8",
+          "genreType": "7",
+          "genreName": "Новые каналы"
+        },
+        {
+          "genreID": "71",
+          "genreType": "7",
+          "genreName": "Познавательные"
+        },
+        {
+          "genreID": "75",
+          "genreType": "7",
+          "genreName": "HD каналы"
+        }
+      ],
+      "ID": "103728320",
+      "introduce": "Канал открывает мир истории, науки, военной истории, история Древнего мира и новейшей истории, раскрывая связи и отыскивая малоизвестные факты из окружающего нас мира. Больше исследований, больше знаний, больше понимания, больше Истории!",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201904/20190402/20190402115105710n0r.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201904/20190402/20190402115105710b98.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201904/20190402/201904021151057104c3.png"
+        ]
+      },
+      "name": "H2 HD"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "5",
+          "genreType": "7",
+          "genreName": "Музыкальные"
+        },
+        {
+          "genreID": "75",
+          "genreType": "7",
+          "genreName": "HD каналы"
+        }
+      ],
+      "ID": "101945884",
+      "introduce": "Европа Плюс ТВ — настоящий, модный музыкальный канал.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517518nbb.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517518mal.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745175188bu.png"
+        ]
+      },
+      "name": "Europa Plus TV HD"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "5",
+          "genreType": "7",
+          "genreName": "Музыкальные"
+        },
+        {
+          "genreID": "75",
+          "genreType": "7",
+          "genreName": "HD каналы"
+        }
+      ],
+      "ID": "101946008",
+      "introduce": "ЖАРА – новое поколение в мире музыкального ТВ! Эксклюзивные развлекательные программы и прямые эфиры, хиты иностранных и российских артистов, яркие сюжеты и громкие имена. «ЖАРА» не обращает внимания на тренды, она их задает.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516266fky.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516266vmt.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516266vl3.png"
+        ]
+      },
+      "name": "ЖАРА HD"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "73",
+          "genreType": "7",
+          "genreName": "Спортивные"
+        },
+        {
+          "genreID": "75",
+          "genreType": "7",
+          "genreName": "HD каналы"
+        }
+      ],
+      "ID": "103728679",
+      "introduce": "Российский телеканал, посвященный всем видам экстремального спорта, путешествиям, единоборствам, активномуобразу жизни и экстремальному кино. Большую часть эфира телеканала составят трансляции с крупнейших мировых соревнований. Вещание в формате HD.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201904/20190402/20190402115100721b7b.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201904/20190402/201904021151007210wn.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201904/20190402/201904021151007212x5.png"
+        ]
+      },
+      "name": "Russian Extreme TV HD"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "73",
+          "genreType": "7",
+          "genreName": "Спортивные"
+        },
+        {
+          "genreID": "75",
+          "genreType": "7",
+          "genreName": "HD каналы"
+        }
+      ],
+      "ID": "101946078",
+      "introduce": "Авто плюс — первый в России телевизионный канал, который 24 часа в сутки, используя современные съемочные технологии, рассказывает об автомобилях и моторных видах спорта, а также о различных видах активного отдыха. Профессиональная команда канала имеет десятилетний опыт работы в области автомобильного телевидения.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515734gc1.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515734053.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515734fli.png"
+        ]
+      },
+      "name": "Авто+ HD"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "72",
+          "genreType": "7",
+          "genreName": "Хобби и досуг"
+        },
+        {
+          "genreID": "75",
+          "genreType": "7",
+          "genreName": "HD каналы"
+        }
+      ],
+      "ID": "101946098",
+      "introduce": "Теледом HD – телеканал предлагает зрителям качественную музыку, трансляции лучших театральных постановок и концертов, встречи с выдающимися современниками в области науки, искусства, спорта, моды, а также авторские программы о кулинарии, семейных взаимоотношениях, стиле, уходе за огородом и животными. Для канала принципиальными являются отказ от освещения политических тем, криминала и негатива и отсутствие новостного вещания. Каждый выходной день 1,5 часа выделено для вещания детских программ, объединенных в рамках канала «Апельсин». В эфире – игровые проекты, научные шоу и познавательные передачи, которые ведут сами дети.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517183kua.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517184gyw.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517183xev.png"
+        ]
+      },
+      "name": "ТелеДом HD"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "70",
+          "genreType": "7",
+          "genreName": "Кино и сериалы"
+        },
+        {
+          "genreID": "75",
+          "genreType": "7",
+          "genreName": "HD каналы"
+        }
+      ],
+      "ID": "101946158",
+      "introduce": "Paramount Channel — фильмы кинонаград, от Оскара до Пальмовой ветви. Картины международных фестивалей последних лет от таких режиссеров, как Роман Полански, Паоло Соррентино, Уэс Андерсон, а также ток-шоу с участием мировых звёзд.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517545pou.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517545pnq.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517545ilo.png"
+        ]
+      },
+      "name": "Paramount Channel HD"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "72",
+          "genreType": "7",
+          "genreName": "Хобби и досуг"
+        },
+        {
+          "genreID": "75",
+          "genreType": "7",
+          "genreName": "HD каналы"
+        }
+      ],
+      "ID": "101946182",
+      "introduce": "FTV Paris – международный телеканал о высокой моде, новинках престижных брендов, великих дизайнерах и топ-моделях. FTV Paris – это эксклюзивные показы мировых фэшн шоу и красных дорожек.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517954o9h.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517954n90.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/2019032607451795414t.png"
+        ]
+      },
+      "name": "FTV HD"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "5",
+          "genreType": "7",
+          "genreName": "Музыкальные"
+        },
+        {
+          "genreID": "75",
+          "genreType": "7",
+          "genreName": "HD каналы"
+        }
+      ],
+      "ID": "101946212",
+      "introduce": "MEZZO Live HD — единственный телеканал, снятый в формате HD, на котором транслируются музыкальные события в прямом эфире; программа канала включает в себя только концерты классической музыки и джаза, оперные и балетные спектакли на французском и английском языках.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745167795h5.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516779j2t.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516779im9.png"
+        ]
+      },
+      "name": "Mezzo Live HD"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "75",
+          "genreType": "7",
+          "genreName": "HD каналы"
+        },
+        {
+          "genreID": "136",
+          "genreType": "7",
+          "genreName": "Новостные"
+        }
+      ],
+      "ID": "101946106",
+      "introduce": "Круглосуточный информационный канал нового формата, освещает события в России и за рубежом, ведет прямые трансляции со всех уголков земного шара.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745158626n0.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515863xi8.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745158627g1.png"
+        ]
+      },
+      "name": "Известия HD"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "71",
+          "genreType": "7",
+          "genreName": "Познавательные"
+        },
+        {
+          "genreID": "75",
+          "genreType": "7",
+          "genreName": "HD каналы"
+        }
+      ],
+      "ID": "101946332",
+      "introduce": "English Club TV — тематический канал с развлекательными, познавательными и обучающими программами для зрителей всех возрастов с самыми разными интересами: для музыкальных фанатов и любителей кино, для знатоков истории и искусства, для любителей кулинарии и анекдотов.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745160461v8.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516046rr8.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516046q2q.png"
+        ]
+      },
+      "name": "English Club TV HD"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "75",
+          "genreType": "7",
+          "genreName": "HD каналы"
+        },
+        {
+          "genreID": "138",
+          "genreType": "7",
+          "genreName": "Документальные"
+        }
+      ],
+      "ID": "101946488",
+      "introduce": "Круглосуточный познавательный телеканал на русском языке. Основу эфира составляют документальные фильмы и сериалы собственного производства, неоднократные призеры престижных международных конкурсов. Также в эфире информационно-аналитические программы и авторские шоу, в частности, программы Ларри Кинга Politicking и Larry King Now.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516369h2d.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516369e74.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516370jn7.png"
+        ]
+      },
+      "name": "RTД HD"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "136",
+          "genreType": "7",
+          "genreName": "Новостные"
+        }
+      ],
+      "ID": "101946968",
+      "introduce": "Евроновости — информационный канал объединенной Европы. Обзор мировых экономических и политических событий, анализ новостей, происходящих внутри Европы.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515658z0x.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745156583sv.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/2019032607451565857i.png"
+        ]
+      },
+      "name": "Евроновости"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "70",
+          "genreType": "7",
+          "genreName": "Кино и сериалы"
+        }
+      ],
+      "ID": "101947030",
+      "introduce": "Дом кино — круглосуточный киноканал Дом кино предлагает ценителям отечественного кино все лучшее, что было создано российским кинематографом: от черно-белой классики начала XX века до киноновинок XXI-год.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516473lz1.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516473hed.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516473d8s.png"
+        ]
+      },
+      "name": "Дом кино"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "70",
+          "genreType": "7",
+          "genreName": "Кино и сериалы"
+        }
+      ],
+      "ID": "101946960",
+      "introduce": "TV1000 Русское кино – каждый день в эфире телеканала «TV1000 Русское кино» легендарные советские ленты и картины современных режиссеров, фильмы-номинанты и лауреаты знаменитых кинофестивалей – вы увидите всё, что достойно вашего внимания.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516815ong.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516815eze.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516815b9s.png"
+        ]
+      },
+      "name": "TV1000 Русское кино"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "70",
+          "genreType": "7",
+          "genreName": "Кино и сериалы"
+        }
+      ],
+      "ID": "101946870",
+      "introduce": "Русский бестселлер — круглосуточный телеканал самых популярных и высокобюджетных отечественных многосерийных фильмов и сериалов продолжительностью от 8 серий и более. Все сериалы канала созданы при участии звезд первой величины, знаменитых кинодеятелей и мастеров отечественного киноискусства, и представляют зрителям широкий спектр жанров и тем.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515151vo5.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515150p1t.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515151bbn.png"
+        ]
+      },
+      "name": "Русский бестселлер"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "70",
+          "genreType": "7",
+          "genreName": "Кино и сериалы"
+        }
+      ],
+      "ID": "101946952",
+      "introduce": "TV1000 – в избранной кинолинейке канала TV1000 перед вами предстанут культовая классика и яркие звезды, фильмы-номинанты и лауреаты знаменитых премий. Погрузитесь в мир кино, ощутите тысячи эмоций, переживайте вместе с любимыми героями!",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517349567.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745173494os.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517325haa.png"
+        ]
+      },
+      "name": "TV1000"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "70",
+          "genreType": "7",
+          "genreName": "Кино и сериалы"
+        }
+      ],
+      "ID": "101946878",
+      "introduce": "TV1000 Action – знаменитые гангстеры, спецагенты и шпионы, преступники и копы собраны в киноколлекции телеканала TV1000 Action. Вас ждут бронебойные премьеры блокбастеров – неиссякаемая энергия, адреналин и бесконечный водоворот событий.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516404bwq.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516404sg6.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/2019032607451640490m.png"
+        ]
+      },
+      "name": "TV1000 Action"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "70",
+          "genreType": "7",
+          "genreName": "Кино и сериалы"
+        }
+      ],
+      "ID": "101947090",
+      "introduce": "Hollywood — премиальный контент голливудских киностудий, таких как MGM, Sony Pictures, Warner Bros. Рейтинговые фильмы, как уже завоевавшие признание, так и новинки последних лет, получившие премию Оскар и другие награды киноиндустрии.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516791snc.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516791hjl.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745167910u3.png"
+        ]
+      },
+      "name": "Hollywood"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "70",
+          "genreType": "7",
+          "genreName": "Кино и сериалы"
+        }
+      ],
+      "ID": "101947098",
+      "introduce": "Cinéma - телеканал лучших фильмов европейского кинематографа XX века с участием легендарных актеров – символов эпохи и кумиров миллионов: Адриано Челентано, Луи де Фюнеса, Жана-Поля Бельмондо, Пьера Ришара, Софи Лорен, Катрин Денёв и др.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515043m9s.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/2019032607451504340z.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515043xg5.png"
+        ]
+      },
+      "name": "Cinéma"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "70",
+          "genreType": "7",
+          "genreName": "Кино и сериалы"
+        }
+      ],
+      "ID": "101946940",
+      "introduce": "Классические киноленты из «золотой коллекции» Болливуда, современные блокбастеры и кассовые рекордсмены, лауреаты и обладатели престижных премий и наград. Вся палитра кинематографа Индии – на вашем экране!",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/2019032607451528669o.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515286uy0.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515286o8n.png"
+        ]
+      },
+      "name": "ИНДИЙСКОЕ КИНО"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "70",
+          "genreType": "7",
+          "genreName": "Кино и сериалы"
+        }
+      ],
+      "ID": "101946934",
+      "introduce": "Fox — лидер по количеству премьерного контента от ведущих мировых студий. В портфолио телеканала Fox  в России входят такие сериалы как \"Ходячие мертвецы\" (The Walking Dead), \"Однажды в сказке\" (Once Upon a Time), \"Дурман\" (Weeds), \"Игра престолов\" (Game of Thrones), \"Мыслить как преступник\" (Criminal minds), \"Во все тяжкие\" (Breaking Bad) и другие.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745174252vq.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517425b3c.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517425epz.png"
+        ]
+      },
+      "name": "Fox"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "70",
+          "genreType": "7",
+          "genreName": "Кино и сериалы"
+        }
+      ],
+      "ID": "101947038",
+      "introduce": "Sony Entertainment Television (SET) – телеканал предлагает зрителям «коктейль» из комедийных и драматических сериалов, а также фильмы и телешоу с мировой славой. Целевая аудитория канала Sony Entertainment Television – женщины, следящие за модными течениями и новинками из мира сериалов и кино. Канал представлен в HD- и SD-версиях.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517700f2f.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745177002cu.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745177003rr.png"
+        ]
+      },
+      "name": "SET"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "70",
+          "genreType": "7",
+          "genreName": "Кино и сериалы"
+        }
+      ],
+      "ID": "101946976",
+      "introduce": "Русский роман — это лучшая коллекция мелодраматических фильмов на отечественном телевидении. Зрители канала смогут смотреть новые телефильмы первыми! Новые серии будут доступны для подписчиков канала до появления в федеральном эфире. Теперь доступ в мир мелодрамы открыт ежедневно и круглосуточно.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745158780o2.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515879jb4.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515879jcl.png"
+        ]
+      },
+      "name": "Русский роман"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "70",
+          "genreType": "7",
+          "genreName": "Кино и сериалы"
+        }
+      ],
+      "ID": "101947022",
+      "introduce": "Все самое смешное в страшном и самое страшное в смешном.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745148529kt.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074514853rxc.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/2019032607451485385o.png"
+        ]
+      },
+      "name": "Настоящее Страшное Телевидение"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "70",
+          "genreType": "7",
+          "genreName": "Кино и сериалы"
+        }
+      ],
+      "ID": "101946984",
+      "introduce": "Sony Sci-Fi - уникальный жанровый телеканал Sony Sci-Fi предлагает зрителям альтернативу «обыденности и повседневности», открывая мир фантастического будущего, сверхъестественного и расширяя границы познания. Здесь все может измениться в одну секунду: появится новая галактика, городские легенды станут реальностью, «ботаник» превратится в супергероя, технологии изменят мир до неузнаваемости, а научные парадоксы обретут логическое объяснение.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516101ayl.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/2019032607451610067u.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745161013q7.png"
+        ]
+      },
+      "name": "Sony Sci-Fi"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "70",
+          "genreType": "7",
+          "genreName": "Кино и сериалы"
+        }
+      ],
+      "ID": "101947051",
+      "introduce": "Захватывающий динамичный телеканал Sony Turbo предлагает зрителям «развлечения с характером»: криминальные и комедийные сериалы, художественные фильмы на любой вкус, документальные проекты и реалити-шоу для настоящих мужчин.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516539cpy.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516539fce.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516539kx3.png"
+        ]
+      },
+      "name": "Sony Turbo"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "70",
+          "genreType": "7",
+          "genreName": "Кино и сериалы"
+        }
+      ],
+      "ID": "101947045",
+      "introduce": "КИНОСЕРИЯ – телеканал современных зарубежных сериалов самых разных жанров от ведущих производителей: детективы, фантастика, военные и исторические драмы, триллеры. Каждое воскресенье – все серии премьерных сериалов в режиме «нон-стоп».",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074514455wyx.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/2019032607451445534l.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074514455hws.png"
+        ]
+      },
+      "name": "КИНОСЕРИЯ"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "70",
+          "genreType": "7",
+          "genreName": "Кино и сериалы"
+        }
+      ],
+      "ID": "101945552",
+      "introduce": "Телеканал российских сериалов и фильмов. Лучшие сериалы отечественного производства, хиты кинокомпании «Амедиа», созданные за последние 10 лет: «Сладкая жизнь», «Закрытая школа», «Бедная Настя»,  «Татьянин день», «Монтекристо»,  «Ангел или демон», «Не плачь по мне, Аргентина!» и другие, а также популярное кино российских режиссеров.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515075quw.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515075ywr.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515075qbs.png"
+        ]
+      },
+      "name": "A2"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "70",
+          "genreType": "7",
+          "genreName": "Кино и сериалы"
+        }
+      ],
+      "ID": "101945518",
+      "introduce": "Телеканал отечественных и зарубежных комедий. В эфире – веселые, смешные и забавные фильмы ведущих киностудий, классика жанра и новинки последних лет. Хорошее настроение – каждый день!",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745145392y9.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/2019032607451453918x.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745145391fa.png"
+        ]
+      },
+      "name": "КИНОКОМЕДИЯ"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "4",
+          "genreType": "7",
+          "genreName": "Детские"
+        }
+      ],
+      "ID": "101945524",
+      "introduce": "Семейный телеканал популярных песен из российских и зарубежных анимационных фильмов в исполнении любимых мультгероев, мировых музыкальных хитов и клипов-караоке, а также музыкальной классики «Союзмультфильма».",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515801usx.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515800f6r.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745158015nq.png"
+        ]
+      },
+      "name": "Мультимузыка"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "4",
+          "genreType": "7",
+          "genreName": "Детские"
+        }
+      ],
+      "ID": "101945626",
+      "introduce": "Nickelodeon — детский развлекательный канал, который смотрит на мир глазами ребенка. Яркие герои помогают развитию в игровой форме, а мультиплатформенные кампании, объединяющие онлайн-ресурсы и эфир канала, вовлекают детей в творческое взаимодействие.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516352oxr.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745163529eg.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516352qy3.png"
+        ]
+      },
+      "name": "Nickelodeon"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "4",
+          "genreType": "7",
+          "genreName": "Детские"
+        }
+      ],
+      "ID": "101945642",
+      "introduce": "Телеканал для юных зрителей от 4 до 12 лет, на котором представлены русские сказки и сказки народов мира, классические и современные художественные фильмы-сказки, сказочные мультфильмы и мультсериалы.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515116a07.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515116yp5.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515116bp7.png"
+        ]
+      },
+      "name": "В гостях у сказки"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "4",
+          "genreType": "7",
+          "genreName": "Детские"
+        }
+      ],
+      "ID": "101945634",
+      "introduce": "Мультимания — все лучшее от Disney, Warner Brothers, MGM, ТО «Экран», «Союзмультфильма», «Ленфильма» и «Беларусьфильма» – самые любимые мультфильмы и художественные картины разных годов.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515180nmr.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515180beg.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515180ua7.png"
+        ]
+      },
+      "name": "Мультимания"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "4",
+          "genreType": "7",
+          "genreName": "Детские"
+        }
+      ],
+      "ID": "101945658",
+      "introduce": "TiJi — детский телеканал для дошкольников. Анимационные сериалы, развивающие передачи, кукольные шоу, музыкальные клипы.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/2019032607451693960t.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745169397gq.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745169391h6.png"
+        ]
+      },
+      "name": "TiJi"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "4",
+          "genreType": "7",
+          "genreName": "Детские"
+        }
+      ],
+      "ID": "101945568",
+      "introduce": "Канал для девочек от 4 до 14 лет. В эфире канала – мультфильмы, сериалы, реалити-шоу и многое другое. А блок передач с увлекательными приключенческими программами Gulli Good будет интересен не только девочкам, но и мальчикам!",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074514753p33.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074514753t3k.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074514752fga.png"
+        ]
+      },
+      "name": "Gulli Girl"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "4",
+          "genreType": "7",
+          "genreName": "Детские"
+        }
+      ],
+      "ID": "101945544",
+      "introduce": "NickToons — телеканал входит в семью каналов Nickelodeon и предлагает зрителям лучшее из мира анимации. Программная сетка NickToons включает самые смешные и увлекательные анимационные шоу, подобранные специально для детей в возрасте 6-10 лет.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745174443en.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517444rnt.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745174447ye.png"
+        ]
+      },
+      "name": "Nicktoons"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "4",
+          "genreType": "7",
+          "genreName": "Детские"
+        }
+      ],
+      "ID": "101945488",
+      "introduce": "Мама — главный российский телеканал для мам и тех, кто только готовится ими стать. Телеканал предлагает качественные реалити-шоу, программы для семейного просмотра, развлекательные и познавательные передачи, в которых будущие родители и все, кому интересен мир ребенка, могут почерпнуть много нового и интересного для себя.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745174070p7.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745174072fe.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517407aa1.png"
+        ]
+      },
+      "name": "Мама"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "4",
+          "genreType": "7",
+          "genreName": "Детские"
+        }
+      ],
+      "ID": "101945602",
+      "introduce": "Радость моя – семейный образовательный телеканал. Зрителям предлагаются культурно-просветительские, образовательные и детские программы собственного производства. Каждый член семьи найдет в программе канала что-то полезное для себя. Особенность телеканала — приверженность православным традициям.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515129lsf.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515129cyf.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515129s2d.png"
+        ]
+      },
+      "name": "Радость Моя"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "71",
+          "genreType": "7",
+          "genreName": "Познавательные"
+        }
+      ],
+      "ID": "101945502",
+      "introduce": "Discovery Channel — это тайны Земли, открытия медицины, техники и биотехнологии, всевозможные исследования, экстремальные приключения, ответы на все интересующие Вас и Ваших детей вопросы.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745176824cq.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/2019032607451768361r.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745176822pp.png"
+        ]
+      },
+      "name": "Discovery Channel"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "71",
+          "genreType": "7",
+          "genreName": "Познавательные"
+        }
+      ],
+      "ID": "101945466",
+      "introduce": "Моя Планета — первый российский телеканал о путешествиях, науке и истории.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516804myk.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516804v61.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516804hxp.png"
+        ]
+      },
+      "name": "Моя планета"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "70",
+          "genreType": "7",
+          "genreName": "Кино и сериалы"
+        }
+      ],
+      "ID": "101945576",
+      "introduce": "Zee TV — канал для поклонников удивительной страны Индии и особенно Болливуда! Кроме индийского кино, зрителей ждут кулинарные шоу, программы о путешествиях, здоровье, моде, красоте.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074508683fz0.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745086836r2.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074508683esj.png"
+        ]
+      },
+      "name": "Zee TV"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "71",
+          "genreType": "7",
+          "genreName": "Познавательные"
+        }
+      ],
+      "ID": "101945496",
+      "introduce": "National Geographic — канал о природе, вдохновляющий на приключения. Программы подготовлены с использованием эксклюзивных материалов географического общества США.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516781d99.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516781gxu.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516781hae.png"
+        ]
+      },
+      "name": "National Geographic"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "72",
+          "genreType": "7",
+          "genreName": "Хобби и досуг"
+        }
+      ],
+      "ID": "101945560",
+      "introduce": "TLC — развлекает смелым и неожиданным, ярким и привлекающим внимание, а порой даже слегка шокирующим контентом. TLC открывает двери и новые горизонты, показывая сцены из реальной жизни, которые захватывают и заряжают положительными эмоциями благодаря своеобразным героям и их провокационным историям.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745145014zg.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/2019032607451450027p.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074514501cuy.png"
+        ]
+      },
+      "name": "TLC"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "71",
+          "genreType": "7",
+          "genreName": "Познавательные"
+        }
+      ],
+      "ID": "101945598",
+      "introduce": "Travel+Adventure — телеканал о настоящих путешествиях – о тех, которые навсегда остаются в памяти и наполняют повседневную жизнь новой динамикой и уникальными впечатлениями. Мы отбираем профессионально переведенные зарубежные программы, в которых упор сделан не на меняющиеся видовые картинки, а на путевые события и увлекательные комментарии.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745157158hi.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745157152m3.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745157157al.png"
+        ]
+      },
+      "name": "Travel+Adventure (SD)"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "71",
+          "genreType": "7",
+          "genreName": "Познавательные"
+        }
+      ],
+      "ID": "101945806",
+      "introduce": "Канал о природе, вдохновляющий на приключения. Программы подготовлены с использованием эксклюзивных материалов географического общества США.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516444lvu.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745164444qr.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516444gfb.png"
+        ]
+      },
+      "name": "National Geographic Wild"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "71",
+          "genreType": "7",
+          "genreName": "Познавательные"
+        }
+      ],
+      "ID": "101945732",
+      "introduce": "Наука — это принципиально новый формат научного канала. Миссия Науки – «развлекая увлекать», сделать увлечение наукой модным.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516885ogx.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516885v2b.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516885ga1.png"
+        ]
+      },
+      "name": "Наука"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "71",
+          "genreType": "7",
+          "genreName": "Познавательные"
+        }
+      ],
+      "ID": "101945842",
+      "introduce": "365 дней ТВ — это первый исторический телевизионный канал, который показывает истории России в истории всего человечества. Трансляции документальных и научно-популярных фильмов.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517130o2p.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517130rtf.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745171309uu.png"
+        ]
+      },
+      "name": "365 дней"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "71",
+          "genreType": "7",
+          "genreName": "Познавательные"
+        }
+      ],
+      "ID": "101945674",
+      "introduce": "Кто есть кто - первый канал документальных фильмов и программ о жизни известных людей прошлого и настоящего. Телеканал рассказывает о гениях и злодеях, о взлетах и падениях, показывает героев новостей и суперзвезд, законодателей моды и стиля жизни, тех, о ком говорят, о ком спорят, о ком помнят.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745160300ad.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516031ywh.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516031azk.png"
+        ]
+      },
+      "name": "Кто есть кто"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "71",
+          "genreType": "7",
+          "genreName": "Познавательные"
+        }
+      ],
+      "ID": "101945772",
+      "introduce": "Viasat History – это не просто документальный телеканал об истории развития цивилизации, это новый взгляд на Историю. Вместе с авторитетными историками совершите невероятные путешествия во времени по самым потаенным уголкам Истории.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745144310cw.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074514431fft.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074514431rov.png"
+        ]
+      },
+      "name": "Viasat History"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "72",
+          "genreType": "7",
+          "genreName": "Хобби и досуг"
+        }
+      ],
+      "ID": "101945590",
+      "introduce": "Охота и рыбалка — канал нацелен на тех, кто предпочитает особый вид отдыха и считает охоту и рыбалку не просто развлечением, а образом жизни.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516578y1m.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516578c9o.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516578uae.png"
+        ]
+      },
+      "name": "Охота и рыбалка"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "71",
+          "genreType": "7",
+          "genreName": "Познавательные"
+        }
+      ],
+      "ID": "101945798",
+      "introduce": "История — впервые мировая и российская история в лучших документальных проектах, фильмах и исторических реконструкциях, документах и воспоминаниях современников на одном канале.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516327p8j.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516327yz0.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516327b2j.png"
+        ]
+      },
+      "name": "История"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "138",
+          "genreType": "7",
+          "genreName": "Документальные"
+        }
+      ],
+      "ID": "101945680",
+      "introduce": "Совершенно секретно — канал документальных расследований, специализирующийся на загадочных историях, громких журналистских расследованиях, военных конфликтах, тайнах судеб великих политических деятелей, дипломатов и разведчиков.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516898zty.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516898je6.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516898h0y.png"
+        ]
+      },
+      "name": "Совершенно секретно"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "71",
+          "genreType": "7",
+          "genreName": "Познавательные"
+        }
+      ],
+      "ID": "101945868",
+      "introduce": "Просвещение — Национальный образовательный канал. В эфире – передачи о науке и инновационных технологиях, современной атомной энергетике и нано технологиях, высшем, среднем и дошкольном образовании, интерактивные программы, проекты о культуре, искусстве и творчестве молодых художников, режиссеров, музыкантов, писателей, поэтов.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516367ix6.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516367066.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516367n85.png"
+        ]
+      },
+      "name": "Просвещение"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "71",
+          "genreType": "7",
+          "genreName": "Познавательные"
+        }
+      ],
+      "ID": "101945876",
+      "introduce": "Russian Travel Guide TV (RTG TV) – международный познавательный телеканал о России, вещающий в 21 стране на трех языках. Телеканал представляет захватывающие документальные фильмы собственного производства о культуре и искусстве многонациональной страны, уникальной природе, российских городах, местах отдыха, научных достижениях, жизни и традициях народов России. Телеканал RTG TV – многократный победитель телевизионных премий и кинофестивалей в России и за рубежом (Лондон, Канны, Венеция).",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515876mmg.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515875rov.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515876fw5.png"
+        ]
+      },
+      "name": "RTG TV"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "71",
+          "genreType": "7",
+          "genreName": "Познавательные"
+        }
+      ],
+      "ID": "101945848",
+      "introduce": "Animal Planet — крокодилы, слоны, термиты, канарейки, рыбы, собаки, ленивцы, жирафы, кошки, бабочки и все-все-все – главные действующие лица увлекательных передач Animal Planet.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515075wny.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515075qks.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515075ttd.png"
+        ]
+      },
+      "name": "Animal Planet"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "71",
+          "genreType": "7",
+          "genreName": "Познавательные"
+        }
+      ],
+      "ID": "101945582",
+      "introduce": "Здоровое ТВ — программы канала посвящены самому дорогому, что есть у человека – его здоровью. С каналом «Здоровое телевидение» Вы узнаете о себе больше!",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516572c1g.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516572btb.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516572luf.png"
+        ]
+      },
+      "name": "Здоровое ТВ"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "71",
+          "genreType": "7",
+          "genreName": "Познавательные"
+        }
+      ],
+      "ID": "101945532",
+      "introduce": "ЖИВИ! — телеканал о здоровом образе жизни. Разнообразные комплексы упражнений по различным направлениям фитнеса и восточных практик, которые специально подобраны для того, чтобы в домашних условиях достичь максимального эффекта от занятий.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/2019032607451476319g.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074514763s70.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745147639jq.png"
+        ]
+      },
+      "name": "ЖИВИ!"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "72",
+          "genreType": "7",
+          "genreName": "Хобби и досуг"
+        }
+      ],
+      "ID": "101945788",
+      "introduce": "Телекафе — канал о еде как элементе престижа и источнике эстетического наслаждения, канал для всех, кто считает приготовление пищи искусством и удовольствием.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517235qh7.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517235rgb.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517235zvg.png"
+        ]
+      },
+      "name": "Телекафе"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "72",
+          "genreType": "7",
+          "genreName": "Хобби и досуг"
+        }
+      ],
+      "ID": "101945820",
+      "introduce": "Усадьба — телеканал объединяет все тематические направления, связанные с жизнью за городом, чтобы предоставить потребителю не просто эстетическое удовольствие, но и аналитическую информацию, а также практические навыки для повседневного использования.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515438be7.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515438m2a.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515438vfk.png"
+        ]
+      },
+      "name": "Усадьба"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "71",
+          "genreType": "7",
+          "genreName": "Познавательные"
+        },
+        {
+          "genreID": "139",
+          "genreType": "7",
+          "genreName": "Научные"
+        }
+      ],
+      "ID": "101945748",
+      "introduce": "Доктор – научно-популярный телеканал о медицине. В эфире – программы о достижениях медицины, новых методах диагностики и лечения, реальные истории врачей и пациентов, документальные очерки о повседневном героизме из разных уголков мира.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745157510fv.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745157510wz.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/2019032607451575146r.png"
+        ]
+      },
+      "name": "Доктор"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "72",
+          "genreType": "7",
+          "genreName": "Хобби и досуг"
+        }
+      ],
+      "ID": "101945740",
+      "introduce": "Круглосуточный тематический телеканал, для людей постоянно живущих за городом, и всех, кто стремится к подобной жизни. Мы освещаем вопросы земледелия, животноводства, строительства, обустройства загородного жилища и  пространства вокруг него, мы готовим вкусную еду и создаем красивые вещи своими руками.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516961f20.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516961scu.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516961cr4.png"
+        ]
+      },
+      "name": "Загородная жизнь"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "72",
+          "genreType": "7",
+          "genreName": "Хобби и досуг"
+        }
+      ],
+      "ID": "101945710",
+      "introduce": "Кухня ТВ — телеканал для настоящих гурманов! Мастер-классы от лучших поваров мира. Звездные гастрономические пристрастия. Увлекательная игра на кухне всей семьей. Старинные рецепты и домашняя кухня.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074514956xao.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745149565gz.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/2019032607451495667v.png"
+        ]
+      },
+      "name": "Кухня ТВ"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "72",
+          "genreType": "7",
+          "genreName": "Хобби и досуг"
+        }
+      ],
+      "ID": "103728769",
+      "introduce": "Tелеканал о качественном и бюджетном строительстве, ремонте, создании интерьера в своей квартире, доме, на садовом участке, в своем дворе. Это целое сообщество дизайнеров интерьеров, архитекторов, строителей и других профессионалов, готовых предложить обычному человеку самые оптимальные решения проблем, связанных с обустройством, и – что особенно важно – в легкой и доступной форме наглядно продемонстрировать, как это можно сделать самому.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201904/20190402/20190402115055727pac.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201904/20190402/20190402115055727awk.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201904/20190402/20190402115055727mei.png"
+        ]
+      },
+      "name": "Бобёр"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "72",
+          "genreType": "7",
+          "genreName": "Хобби и досуг"
+        }
+      ],
+      "ID": "101945694",
+      "introduce": "ЮМОР BOX — круглосуточный, юмористический, развлекательный и самый позитивный телеканал. В эфире телеканала лучшие номера классиков разговорного жанра, команд КВН, начинающих юмористов и звезд цирка, шедевры немого кино, фильмы для детей, ситкомы, скетчи, пародии, мультфильмы и программы собственного производства.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516081llf.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/2019032607451608145y.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516081gk5.png"
+        ]
+      },
+      "name": "ЮМОР BOX"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "72",
+          "genreType": "7",
+          "genreName": "Хобби и досуг"
+        }
+      ],
+      "ID": "101945764",
+      "introduce": "В эфире телеканала «ТНТ4» можно увидеть только лучшие и только юмористические сериалы и программы ТНТ: «Физрук», «НеZлоб», «Интерны», «Универ», «Реальные пацаны», Comedy Club, Comedy Woman, Stand Up, «ХБ» и «Comedy Баттл». Ежедневно и круглосуточно – смех и положительные эмоции!",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516235nqr.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516234g76.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516235cgm.png"
+        ]
+      },
+      "name": "ТНТ4"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "71",
+          "genreType": "7",
+          "genreName": "Познавательные"
+        },
+        {
+          "genreID": "138",
+          "genreType": "7",
+          "genreName": "Документальные"
+        }
+      ],
+      "ID": "101945688",
+      "introduce": "Ностальгия - российский музыкально-публицистический канал посвящен культуре 60-х — 80-х годов. Это – канал для тех, кому нравятся песни прошлых лет и фильмы, проверенные временем, кто интересуется документальным кино, ретро-модой и дизайном. В сетке телеканала — встречи со звездами зарубежного экрана и сцены, с корифеями советского телевидения, записи с концертов и лучшие музыкальные фильмы последних сорока лет, такие как «Пусть говорят» с Рафаэлем, «Начни сначала» с Андреем Макаревичем, Jesus Christ Superstar, Hair, а также ток-шоу с Севой Новгородцевым и Леонидом Володарским.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745160194v2.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516019kwc.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/2019032607451601944f.png"
+        ]
+      },
+      "name": "Ностальгия"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "72",
+          "genreType": "7",
+          "genreName": "Хобби и досуг"
+        },
+        {
+          "genreID": "138",
+          "genreType": "7",
+          "genreName": "Документальные"
+        }
+      ],
+      "ID": "101945716",
+      "introduce": "Ретро — вместе с каналом «Ретро» Вы вспомните самые яркие моменты из истории нашей страны, увидите программы, фильмы и телеспектакли из золотого фонда отечественного телевидения, встретитесь с телеперсонажами, вместе с которыми выросли.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745161328ij.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516132ld6.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516132jzs.png"
+        ]
+      },
+      "name": "Ретро"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "72",
+          "genreType": "7",
+          "genreName": "Хобби и досуг"
+        }
+      ],
+      "ID": "101945836",
+      "introduce": "В эфире телеканала для семейного просмотра - романтические и комедийные сериалы и шоу собственного производства, а также российские и зарубежные полнометражные фильмы, сериалы и программы.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516363cwp.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516363mi2.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516363tym.png"
+        ]
+      },
+      "name": "Супер"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "5",
+          "genreType": "7",
+          "genreName": "Музыкальные"
+        }
+      ],
+      "ID": "101946024",
+      "introduce": "\"Шансон ТВ\" – круглосуточный музыкальный телевизионный канал для тех, кто любит шансон в любом его проявлении: от песен Федора Шаляпина и Леонида Утесова до творчества Владимира Высоцкого и Иосифа Кобзона.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517189hyc.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517189mxx.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517189gvw.png"
+        ]
+      },
+      "name": "Шансон"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "72",
+          "genreType": "7",
+          "genreName": "Хобби и досуг"
+        }
+      ],
+      "ID": "101945992",
+      "introduce": "Веселый телеканал для всей семьи, телеканал хорошего настроения и здорового юмора. На телеканале представлен уникальный по масштабу юмористический контент; концерты классиков юмора, юмористические программы, скетч-шоу и комедийные сериалы.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516526thg.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516526apb.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516526u0u.png"
+        ]
+      },
+      "name": "Сарафан"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "72",
+          "genreType": "7",
+          "genreName": "Хобби и досуг"
+        }
+      ],
+      "ID": "101945938",
+      "introduce": "8 канал — развлекательный телеканал, показывающий жизнь во всей ее полноте: ярких красках, эмоциях и счастливых мгновениях. Круглосуточно в эфире телеканала: художественные фильмы, аналитические материалы, интервью со знаменитыми музыкантами и киноактерами, погода на каждый день, юмористические и кулинарные телепроекты, информационные выпуски, утренние и развлекательные шоу.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516845f30.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516845gkg.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516845rbt.png"
+        ]
+      },
+      "name": "8 канал"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "70",
+          "genreType": "7",
+          "genreName": "Кино и сериалы"
+        }
+      ],
+      "ID": "101945898",
+      "introduce": "Paramount Comedy — российский развлекательный телеканал, показывающий лучшие комедийные сериалы, ситкомы, стендап и анимацию, культовые телевизионные хиты, новые для российской публики, но уже завоевавшие миллионы поклонников по всему миру ситкомы.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515375awh.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515375n0g.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515375kan.png"
+        ]
+      },
+      "name": "Paramount Comedy"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "5",
+          "genreType": "7",
+          "genreName": "Музыкальные"
+        }
+      ],
+      "ID": "101945954",
+      "introduce": "MTV — развлекательный канал, легендарный медиа – брэнд, который известен во всем мире.  В России присутствует с 1998 года. МТV стал голосом целого поколения, и сегодня канал завоевывает сердца новой, молодой аудитории.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517029cf6.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517029545.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745170291v6.png"
+        ]
+      },
+      "name": "MTV"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "5",
+          "genreType": "7",
+          "genreName": "Музыкальные"
+        }
+      ],
+      "ID": "101946040",
+      "introduce": "RU.TV – это видео-версия одного из популярных радиопроектов «Русского радио».",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745164802es.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516480uxp.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516480zcb.png"
+        ]
+      },
+      "name": "RU.TV"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "5",
+          "genreType": "7",
+          "genreName": "Музыкальные"
+        }
+      ],
+      "ID": "101946070",
+      "introduce": "Музыка первого – это лучшие видеоклипы, живые концерты, хит-парады 24 часа в сутки в новом широкоформатном качестве. Это весь спектр современной российской музыки — от эстрады до классики рока, от модных молодежных стилей до проверенных временем популярных хитов.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745174125mf.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517412ran.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517413ov5.png"
+        ]
+      },
+      "name": "Музыка первого"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "5",
+          "genreType": "7",
+          "genreName": "Музыкальные"
+        }
+      ],
+      "ID": "101946032",
+      "introduce": "«ТНТ Music» - это качественная и востребованная музыка, эксклюзивные развлекательные программы и телевизионные шоу. Телеканал «ТНТ Music» знает все о модных развлечениях: интервью, репортажи, прямые трансляции с фестивалей и спортивных событий, спецпроекты, шоу, кино и сериалы. Развлекательная часть видеоконтента создается с учетом опыта самых успешных проектов телеканала ТНТ.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517461mbl.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745174616qi.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745174614ft.png"
+        ]
+      },
+      "name": "ТНТ Music"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "5",
+          "genreType": "7",
+          "genreName": "Музыкальные"
+        }
+      ],
+      "ID": "101946064",
+      "introduce": "Ля-Минор – это телевизионный канал, который посвящен авторской и бардовской песне, городскому романсу. Музыкальные видеоклипы, записи концертов исполнителей песен в стиле русский шансон.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/2019032607451680620i.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745168060gv.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516806s2t.png"
+        ]
+      },
+      "name": "Ля-Минор"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "5",
+          "genreType": "7",
+          "genreName": "Музыкальные"
+        }
+      ],
+      "ID": "101945930",
+      "introduce": "Music BOX — музыкальный архив канала состоит из музыкальных видеоклипов лучших мировых брендов! Это музыка конца 80-х, 90-х годов, и новинки самых популярных на сегодня исполнителей",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745155312qp.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515531uai.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515531uml.png"
+        ]
+      },
+      "name": "MUSIC BOX"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "5",
+          "genreType": "7",
+          "genreName": "Музыкальные"
+        }
+      ],
+      "ID": "101946048",
+      "introduce": "Music BOX Russia — представляет только русскую музыку! Это и современная поп и рок-музыка, «шансон», шлягеры старой советской и современной эстрады, песни таких раритетных исполнителей, как Леонид Утесов, Булат Окуджава, Владимир Высоцкий и другие.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516353m6l.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516353csf.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745163535oc.png"
+        ]
+      },
+      "name": "RUSSIAN MUSICBOX"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "5",
+          "genreType": "7",
+          "genreName": "Музыкальные"
+        }
+      ],
+      "ID": "101945906",
+      "introduce": "BRIDGE TV CLASSIC - на телеканале собраны лучшие мировые хиты из «золотой» коллекции 1960-2000-х годов, полюбившиеся зрителям за всю историю музыкальной телеиндустрии. Канал BRIDGE TV CLASSIC повторяет эфир BRIDGE TV 10-летней давности.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517869rc4.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517869s5k.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517869jit.png"
+        ]
+      },
+      "name": "BRIDGE TV CLASSIC"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "5",
+          "genreType": "7",
+          "genreName": "Музыкальные"
+        }
+      ],
+      "ID": "101945890",
+      "introduce": "Bridge TV Русский Хит – круглосуточный музыкальный телеканал. В эфире канала – модная и популярная музыка отечественных звезд, а также новостные программы, хит-парады, музыкальные подборки и концертные выступления.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516076dki.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745160767ad.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516076a9s.png"
+        ]
+      },
+      "name": "BRIDGE TV Русский Хит"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "5",
+          "genreType": "7",
+          "genreName": "Музыкальные"
+        }
+      ],
+      "ID": "101945914",
+      "introduce": "BRIDGE TV – популярный телеканал зарубежной музыки. В эфире – лучшие клипы различных направлений музыки всех времен. На телеканале представлены музыкальные блоки-передачи (Baby Time, Bridge In Time, Rock Party Time, Retro Dance, Bridge To Nightlife, TOP 10), а также News Time – новости мирового шоу-бизнеса.\nНа телеканале собрана богатейшая библиотека лучших музыкальных работ со всего мира. Отличительной особенностью BRIDGE TV всегда является высочайшее качество всех составных частей телеканала – звука, клипов, музыкальной подборки, передач, оформления.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516058y8w.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516058fxa.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745160584lm.png"
+        ]
+      },
+      "name": "BRIDGE TV"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "5",
+          "genreType": "7",
+          "genreName": "Музыкальные"
+        }
+      ],
+      "ID": "101946000",
+      "introduce": "BRIDGE TV DANCE - танцевальный телеканал транслирует клипы различных направлений музыки с красивой и оригинальной хореографией.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516972wxf.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516972p4d.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516972jo9.png"
+        ]
+      },
+      "name": "Bridge TV Dance"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "5",
+          "genreType": "7",
+          "genreName": "Музыкальные"
+        }
+      ],
+      "ID": "101946050",
+      "introduce": "MCM TOP — молодежный музыкальный канал для тех, кому от 15 до 25 лет. Современная французская музыка, развлекательные шоу и сериалы.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517443bv2.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745174435io.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745174430ke.png"
+        ]
+      },
+      "name": "MCM TOP"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "5",
+          "genreType": "7",
+          "genreName": "Музыкальные"
+        }
+      ],
+      "ID": "101946016",
+      "introduce": "Телеканал о2тв — молодежный музыкально-развлекательный канал, ориентированный на зрителей от 18 до 35 лет. Программы об отношениях, карьере, моде, спорте, кино, гаджетах и др. Музыкальные клипы, короткометражные фильмы молодых российских режиссеров, оригинальное реалити-щоу.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516836c1a.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/2019032607451683663b.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516836z3u.png"
+        ]
+      },
+      "name": "О2тв"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "5",
+          "genreType": "7",
+          "genreName": "Музыкальные"
+        }
+      ],
+      "ID": "101946310",
+      "introduce": "Телерадиоканал СТРАНА FM - первый и единственный в России Музыкальный информационно-развлекательный телеканал синхронным вещанием в fm диапазоне",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517402q20.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517402v27.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517402az2.png"
+        ]
+      },
+      "name": "Страна FM"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "73",
+          "genreType": "7",
+          "genreName": "Спортивные"
+        }
+      ],
+      "ID": "101946318",
+      "introduce": "Eurosport 1 — канал освещает более 120 видов спорта и спортивные события во всем мире. Их комментируют эксперты мирового класса. Широко представлены футбол, теннис, велоспорт, летние олимпийские и зимние виды, авто- и мотоспорт, снукер.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517804ynd.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745178038a0.png"
+        ],
+        "channelBlackWhites": [
+          ""
+        ]
+      },
+      "name": "Eurosport 1"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "73",
+          "genreType": "7",
+          "genreName": "Спортивные"
+        }
+      ],
+      "ID": "101946174",
+      "introduce": "Eurosport 2 — свыше 50% программ – эксклюзив, не представленный на канале Eurosport 1. Предлагается широкий спектр прямых трансляций спортивных событий и программы об избранных турнирах (Турнир Большого Шлема, Джиро, 24 часа Ле Ман и др.).",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515377h6w.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515377rui.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515377srx.png"
+        ]
+      },
+      "name": "Eurosport 2"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "73",
+          "genreType": "7",
+          "genreName": "Спортивные"
+        }
+      ],
+      "ID": "101946250",
+      "introduce": "В прямом эфире телеканала престижные мировые турниры по неигровым видам спорта: чемпионаты мира и Европы по легкой атлетике, биатлону, лыжным гонкам, фигурному катанию, водным видам спорта, а также автогонки «Формула-1». Вещание осуществляется в SD- и HD-форматах.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074514868djr.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074514868sfx.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074514868hnx.png"
+        ]
+      },
+      "name": "МАТЧ! АРЕНА"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "73",
+          "genreType": "7",
+          "genreName": "Спортивные"
+        }
+      ],
+      "ID": "101946198",
+      "introduce": "Драйв — единственный в России канал, целиком посвященный любимым игрушкам больших и маленьких мужчин – автомобилям и мотоциклам.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745172355cl.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517235byh.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517235grm.png"
+        ]
+      },
+      "name": "Драйв"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "73",
+          "genreType": "7",
+          "genreName": "Спортивные"
+        }
+      ],
+      "ID": "101946206",
+      "introduce": "Программы телеканала посвящены профессиональным и любительским единоборствам: боксу, смешанному стилю, кикбоксингу, дзюдо, борьбе, самбо и др. Смотрите в эфире канала еженедельные обзоры, программы о традиционных видах единоборств «Академия единоборств», «Один на один», трансляции профессиональных бойцовских шоу, чемпионатов и Кубков России, а также мировой чемпионат по кикбоксингу Glory и обзоры императорского турнира Grand Sumo Tournament.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745173753vi.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745173758d7.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517375q2s.png"
+        ]
+      },
+      "name": "Матч! Боец"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "73",
+          "genreType": "7",
+          "genreName": "Спортивные"
+        }
+      ],
+      "ID": "101945968",
+      "introduce": "Матч! Игра – телеканал транслирует матчи наиболее рейтинговых и значимых мировых турниров. Зрители в прямом эфире увидят престижные европейские клубные соревнования по баскетболу, волейболу, гандболу и другим игровым видам спорта.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074518060auy.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074518061lo0.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074518061e3f.png"
+        ]
+      },
+      "name": "МАТЧ! ИГРА"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "73",
+          "genreType": "7",
+          "genreName": "Спортивные"
+        }
+      ],
+      "ID": "101946220",
+      "introduce": "КХЛ — прямые трансляции матчей очередного игрового дня Чемпионата КХЛ, показ наиболее интересных матчей прошлых лет, аналитические и новостные программы, интервью со звездами КХЛ и ветеранами хоккея, тематические программы, посвященные советскому хоккею.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515464pk7.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515464jmp.png"
+        ],
+        "channelBlackWhites": []
+      },
+      "name": "КХЛ"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "73",
+          "genreType": "7",
+          "genreName": "Спортивные"
+        }
+      ],
+      "ID": "101946120",
+      "introduce": "Футбол — это трансляции матчей ведущих европейских команд, лучших матчей английской Премьер-лиги, матчей сборных команд, зрелищных игр «Барселоны». Особое внимание уделяется футбольным грандам. Получаемые напрямую от клубных каналов материалы адаптируются для российского зрителя.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745160454zx.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745160456th.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516045oq2.png"
+        ]
+      },
+      "name": "Футбол"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "137",
+          "genreType": "7",
+          "genreName": "Региональные"
+        }
+      ],
+      "ID": "101946134",
+      "introduce": "Москва 24 — городской круглосуточный информационный канал. Городские новости в прямом эфире каждый час. Основная задача канала – максимально подробно и оперативно информировать обо всех событиях, происходящих в столице.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516610ryo.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/2019032607451661012o.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516610tzh.png"
+        ]
+      },
+      "name": "Москва 24"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "137",
+          "genreType": "7",
+          "genreName": "Региональные"
+        }
+      ],
+      "ID": "101946142",
+      "introduce": "Беларусь 24 — государственный некоммерческий телеканал, вещающий за пределы своей страны и обеспечивающий информационную связь этнических белорусов с исторической родиной.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517232d3o.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517232yli.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/2019032607451723123z.png"
+        ]
+      },
+      "name": "Беларусь 24"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "137",
+          "genreType": "7",
+          "genreName": "Региональные"
+        }
+      ],
+      "ID": "101946092",
+      "introduce": "Татарстан – Новый Век (ТНВ) — канал Республики Татарстан с новостями, сериалами, мультфильмами, ток-шоу и зрелищными передачами (в том числе спортивными). Вещает на двух языках: русском и татарском.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515918rer.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515918jqz.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515918rvs.png"
+        ]
+      },
+      "name": "ТНВ"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "137",
+          "genreType": "7",
+          "genreName": "Региональные"
+        }
+      ],
+      "ID": "101946084",
+      "introduce": "БелРос — телевидение ради общества. Государство – это прежде всего люди. Поэтому главными героями телеканала становятся люди, живущие в союзном государстве России и Беларуси.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515620nqm.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745156205wu.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745156205hq.png"
+        ]
+      },
+      "name": "БелРос"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "137",
+          "genreType": "7",
+          "genreName": "Региональные"
+        }
+      ],
+      "ID": "101945974",
+      "introduce": "Телеканал 360 - федеральный канал регионального назначения. Каждый день в эфире - «Большие новости», которые касаются именно вас; программы о еде и путешествиях; интеллектуальные квесты и лучшее из коллекции мирового кинематографа! Первый в России телевертолет позволяет съемочным группам телеканала «Телеканал 360» первыми оказываться на месте происшествия и вести уникальные съемки с воздуха.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515254hjc.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515254id0.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745152546mp.png"
+        ]
+      },
+      "name": "Телеканал 360"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "136",
+          "genreType": "7",
+          "genreName": "Новостные"
+        }
+      ],
+      "ID": "101946150",
+      "introduce": "Телеканал партии ЛДПР ставит задачу показать наиболее актуальные события в жизни страны. В эфире канала – информационные, аналитические и развлекательные программы, ежедневные телемосты «Государственная Дума – студия ЛДПР.ТВ».",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516071aam.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/2019032607451607145m.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516071k6d.png"
+        ]
+      },
+      "name": "ЛДПР.ТВ"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "136",
+          "genreType": "7",
+          "genreName": "Новостные"
+        }
+      ],
+      "ID": "101946190",
+      "introduce": "Deutsche Welle — немецкий общественно-правовой канал В эфире – новостные передачи, программы о европейской культуре и моде, спорте, финансах, автомобилях и путешествиях.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074518005a7k.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074518006mot.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074518006sbx.png"
+        ]
+      },
+      "name": "Deutsche Welle"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "136",
+          "genreType": "7",
+          "genreName": "Новостные"
+        }
+      ],
+      "ID": "101946340",
+      "introduce": "France 24 — международный информационный канал. Каждые полчаса – обновленные сводки новостей. В сетке вещания – дебаты, интервью, аналитические передачи с участием видных политиков и общественных деятелей, бизнесменов, известных людей из мира литературы, моды.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516892ot0.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516892vks.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516892y8s.png"
+        ]
+      },
+      "name": "France 24"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "136",
+          "genreType": "7",
+          "genreName": "Новостные"
+        }
+      ],
+      "ID": "101946326",
+      "introduce": "Russia Today – первый российский информационный телеканал, ведущий круглосуточное вещание на английском языке.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516937xp1.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516937ndm.png"
+        ]
+      },
+      "name": "Russia Today"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "71",
+          "genreType": "7",
+          "genreName": "Познавательные"
+        },
+        {
+          "genreID": "140",
+          "genreType": "7",
+          "genreName": "Образовательные"
+        }
+      ],
+      "ID": "101946448",
+      "introduce": "Первый и пока единственный в своем роде тематический канал в помощь малому и среднему бизнесу.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074518093qip.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745180935ge.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074518093bef.png"
+        ]
+      },
+      "name": "Успех"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "71",
+          "genreType": "7",
+          "genreName": "Познавательные"
+        },
+        {
+          "genreID": "72",
+          "genreType": "7",
+          "genreName": "Хобби и досуг"
+        }
+      ],
+      "ID": "101946516",
+      "introduce": "Научно-популярный познавательный телеканал для мужчин. Программы телеканала рассказывают о новых технологиях, мощной технике, гражданском оружии, разработках российских инженеров и конструкторов в сфере оборонно-промышленного комплекса.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745173316qj.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517330h0w.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745173313m9.png"
+        ]
+      },
+      "name": "Т24"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "72",
+          "genreType": "7",
+          "genreName": "Хобби и досуг"
+        }
+      ],
+      "ID": "101946400",
+      "introduce": "Оружие — первый в России телеканал, полностью посвященный теме оружия.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/2019032607451771964y.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517719geo.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517719btg.png"
+        ]
+      },
+      "name": "Оружие"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "72",
+          "genreType": "7",
+          "genreName": "Хобби и досуг"
+        }
+      ],
+      "ID": "101946464",
+      "introduce": "Канал для тех, кому небезразличны мужские забавы: охота, рыбалка, оружие и автомобили. Современному мужчине важно быть в хорошей форме, уметь постоять как словом, так и делом, произвести впечатление на женщин и вызвать уважение у товарищей.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074518011mc4.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074518011liu.png"
+        ],
+        "channelBlackWhites": [
+          "null"
+        ]
+      },
+      "name": "Мужской"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "8",
+          "genreType": "7",
+          "genreName": "Новые каналы"
+        },
+        {
+          "genreID": "72",
+          "genreType": "7",
+          "genreName": "Хобби и досуг"
+        },
+        {
+          "genreID": "74",
+          "genreType": "7",
+          "genreName": "4K каналы"
+        }
+      ],
+      "ID": "104650034",
+      "introduce": "Телеканал ориентирован на аудиторию в возрасте от 18 до 45 лет. Основные направления: инновационная документалистика, реалити-шоу, экстремальные путешествия и спорт, интерактивные проекты.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201904/20190415/20190415132040558e7e.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201904/20190415/20190415132040558hwi.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201904/20190415/20190415132040558sez.png"
+        ]
+      },
+      "name": "Insight UHD"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "8",
+          "genreType": "7",
+          "genreName": "Новые каналы"
+        },
+        {
+          "genreID": "70",
+          "genreType": "7",
+          "genreName": "Кино и сериалы"
+        },
+        {
+          "genreID": "74",
+          "genreType": "7",
+          "genreName": "4K каналы"
+        }
+      ],
+      "ID": "104645369",
+      "introduce": "Это динамичные и зрелищные фильмы жанра экшн, кассовые новинки, известные актеры, и всё это в Ultra HD 4K.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201904/20190415/20190415132055558r5e.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201904/20190415/20190415132055558uin.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201904/20190415/2019041513205555812q.png"
+        ]
+      },
+      "name": "Russian Extreme Ultra Kino"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "8",
+          "genreType": "7",
+          "genreName": "Новые каналы"
+        },
+        {
+          "genreID": "72",
+          "genreType": "7",
+          "genreName": "Хобби и досуг"
+        },
+        {
+          "genreID": "74",
+          "genreType": "7",
+          "genreName": "4K каналы"
+        }
+      ],
+      "ID": "104650062",
+      "introduce": "Канал вещается в формате UHD - 4K.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201904/20190415/20190415132100559oew.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201904/20190415/20190415132100560wa5.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201904/20190415/201904151321005608qq.png"
+        ]
+      },
+      "name": "Fashion TV UHD"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "8",
+          "genreType": "7",
+          "genreName": "Новые каналы"
+        },
+        {
+          "genreID": "73",
+          "genreType": "7",
+          "genreName": "Спортивные"
+        },
+        {
+          "genreID": "74",
+          "genreType": "7",
+          "genreName": "4K каналы"
+        }
+      ],
+      "ID": "104645370",
+      "introduce": "Ведущий спортивный телеканала мира. Трансляции спортивных событий в Ultra HD качестве.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201904/20190415/20190415132050581k1c.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201904/20190415/20190415132050582goi.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201904/20190415/20190415132050582u1n.png"
+        ]
+      },
+      "name": "Eurosport UHD"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "70",
+          "genreType": "7",
+          "genreName": "Кино и сериалы"
+        }
+      ],
+      "ID": "101946370",
+      "introduce": "Динамичное и зрелищное кино. Жгучая смесь драйва, скорости, адреналина, перестрелок, крутых автомобилей и красивых женщин. Детективы, боевики, триллеры, криминальные драмы в высоком качестве изображения и звука. Вещание осуществляется в HD-формате.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517261ix1.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745172612mx.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/2019032607451726118m.png"
+        ]
+      },
+      "name": "МУЖСКОЕ КИНО криминальные драмы в высоком качестве изображения и звука."
+    },
+    {
+      "genres": [
+        {
+          "genreID": "70",
+          "genreType": "7",
+          "genreName": "Кино и сериалы"
+        },
+        {
+          "genreID": "75",
+          "genreType": "7",
+          "genreName": "HD каналы"
+        }
+      ],
+      "ID": "101946276",
+      "introduce": "",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516497ef8.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516497412.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516497w1h.png"
+        ]
+      },
+      "name": "КИНОПРЕМЬЕРА"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "70",
+          "genreType": "7",
+          "genreName": "Кино и сериалы"
+        }
+      ],
+      "ID": "101946524",
+      "introduce": "Телеканал для всей семьи. Максимально безопасные фильмы, которые понравятся и детям, и взрослым: детское кино и полнометражные мультфильмы, ленты о дружбе и семейных ценностях. Вещание осуществляется в HD-формате.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517956uny.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517956fr6.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745179560ua.png"
+        ]
+      },
+      "name": "КИНОСЕМЬЯ"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "70",
+          "genreType": "7",
+          "genreName": "Кино и сериалы"
+        }
+      ],
+      "ID": "101946282",
+      "introduce": "Телеканал мировых кинохитов разных лет. Популярные зарубежные фильмы с наиболее высокими – по мнению зрителей – рейтингами. Культовое кино, знаменитые актеры и режиссеры, эталоны жанра. Вещание осуществляется в HD-формате.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517705d3k.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/2019032607451770424c.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517705rtg.png"
+        ]
+      },
+      "name": "КИНОХИТ"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "70",
+          "genreType": "7",
+          "genreName": "Кино и сериалы"
+        }
+      ],
+      "ID": "101946262",
+      "introduce": "Телеканал об отношениях мужчины и женщины. Вдохновляющие истории любви, романтические комедии и психология отношений в пронзительных драмах – фильмы, которые хочется смотреть вдвоем.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745161306q2.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516131i2v.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516131n9y.png"
+        ]
+      },
+      "name": "КИНОСВИДАНИЕ"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "71",
+          "genreType": "7",
+          "genreName": "Познавательные"
+        }
+      ],
+      "ID": "103728681",
+      "introduce": "Канал представляет документальные сериалы о наших современниках и программы, посвященные значимым событиям и артефактам древней и новейшей истории, знаменитым людям, научным открытиям, технологиям и культурным достижениям.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201904/20190402/20190402115105727i8x.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201904/20190402/201904021151057274x7.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201904/20190402/20190402115105727gxs.png"
+        ]
+      },
+      "name": "History HD"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "73",
+          "genreType": "7",
+          "genreName": "Спортивные"
+        },
+        {
+          "genreID": "75",
+          "genreType": "7",
+          "genreName": "HD каналы"
+        }
+      ],
+      "ID": "101946256",
+      "introduce": "Матч! Премьер - эксклюзивно, в прямом эфире, все матчи Российской Премьер-Лиги, матчи Кубка России и товарищеские матчи клубов РПЛ. Обзоры английской Премьер-лиги, испанской Ла Лиги, немецкой Бундеслиги, итальянской Серии А и французской Лиги 1.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074518064ops.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074518063m1i.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074518063vdb.png"
+        ]
+      },
+      "name": "Матч! Премьер"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "70",
+          "genreType": "7",
+          "genreName": "Кино и сериалы"
+        },
+        {
+          "genreID": "75",
+          "genreType": "7",
+          "genreName": "HD каналы"
+        }
+      ],
+      "ID": "101946268",
+      "introduce": "AMEDIA Premium HD –  телеканал премьер представляет российские и зарубежные сериалы, хиты ведущих студий мира. Смотрите также документальные фильмы, концерты и стендап-шоу, музыкальные фестивали и церемонии в прямом эфире.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516913arw.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745169149rn.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074516914ie1.png"
+        ]
+      },
+      "name": "AMEDIA Premium HD"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "70",
+          "genreType": "7",
+          "genreName": "Кино и сериалы"
+        }
+      ],
+      "ID": "101946406",
+      "introduce": "В эфире телеканала для мужчин со вкусом к жизни – рейтинговые мужские сериалы; фильмы популярных жанров – от экшн-блокбастеров до «черных» комедий; документальные программы – журналистские расследования, интервью, истории успеха и др.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515191myu.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074515191925.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/201903260745151911wm.png"
+        ]
+      },
+      "name": "A1"
+    },
+    {
+      "genres": [
+        {
+          "genreID": "70",
+          "genreType": "7",
+          "genreName": "Кино и сериалы"
+        }
+      ],
+      "ID": "101946392",
+      "introduce": "AMEDIA HIT – телеканал мировых хитов, ставших «классикой» ТВ: «Клан Сопрано», «Подпольная империя», «Прослушка», «Клиент всегда мертв», «Калифорникейшн», «Декстер», «Борджиа» и многие другие.",
+      "picture": {
+        "backgrounds": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517453xuo.png"
+        ],
+        "channelPics": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517453tjh.png"
+        ],
+        "channelBlackWhites": [
+          "http://htv-vsc.mts.ru:33200/CPS/images/universal/film/logo/201903/20190326/20190326074517453xgy.png"
+        ]
+      },
+      "name": "AMEDIA HIT SD"
+    }
+  ]
+}
