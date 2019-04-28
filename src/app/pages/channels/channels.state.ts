@@ -1,4 +1,4 @@
-import { IChannel } from 'src/app/interfaces/channel.interface';
+import { IChannel } from '@interfaces/channel.interface';
 import { EntityState, EntityAdapter, createEntityAdapter } from '@ngrx/entity';
 import { createFeatureSelector } from '@ngrx/store';
 

@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Store, select } from '@ngrx/store';
 import * as fromChannels from './channels.state';
-import { IChannel } from 'src/app/interfaces/channel.interface';
+import { IChannel } from '@interfaces/channel.interface';
 import { Observable } from 'rxjs';
 
 @Component({

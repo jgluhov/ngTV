@@ -19,15 +19,9 @@
       "dom"
     ],
     "paths": {
-      "@pages/*": [
-        "./src/pages/*"
-      ],
-      "@interfaces/*": [
-        "./src/interfaces/*"
-      ],
-      "@shared/*": [
-        "./src/shared/*"
-      ]
+      "@pages/*": [ "src/app/pages/*" ],
+      "@interfaces/*": [ "src/app/interfaces/*" ],
+      "@shared/*": [ "src/app/shared/*" ]
     }
   }
 }
