@@ -1,9 +1,12 @@
 import { NgModule } from '@angular/core';
+import { HttpClientModule } from '@angular/common/http';
 import { CommonModule } from '@angular/common';
-import { ChannelsComponent } from './channels.component';
-import { ChannelsRoutingModule } from './channels-routing.module';
+import { ChannelsComponent } from '@channels/channels.component';
+import { ChannelsRoutingModule } from '@channels/channels-routing.module';
 import { StoreModule } from '@ngrx/store';
-import { channelsReducer } from './store/channels.reducer';
+import { channelsReducer } from '@channels/store/channels.reducer';
+import { EffectsModule } from '@ngrx/effects';
+import { ChannelsEffects } from '@channels/store/channels.effects';
 
 @NgModule({
   declarations: [
@@ -11,8 +14,12 @@ import { channelsReducer } from './store/channels.reducer';
   ],
   imports: [
     CommonModule,
+    HttpClientModule,
     ChannelsRoutingModule,
-    StoreModule.forFeature('channels', channelsReducer)
+    StoreModule.forFeature('channels', channelsReducer),
+    EffectsModule.forFeature([
+      ChannelsEffects
+    ])
   ]
 })
 export class ChannelsModule {

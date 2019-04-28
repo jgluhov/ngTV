@@ -7,6 +7,7 @@ import { ChannelsComponent } from './pages/channels/channels.component';
 import { StoreModule } from '@ngrx/store';
 import { StoreDevtoolsModule } from '@ngrx/store-devtools';
 import { environment } from 'src/environments/environment.prod';
+import { EffectsModule } from '@ngrx/effects';
 
 @NgModule({
   declarations: [
@@ -16,6 +17,7 @@ import { environment } from 'src/environments/environment.prod';
     BrowserModule,
     AppRoutingModule,
     StoreModule.forRoot({}),
+    EffectsModule.forRoot([]),
     StoreDevtoolsModule.instrument({
       maxAge: 25,
       logOnly: environment.production

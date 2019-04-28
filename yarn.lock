@@ -285,6 +285,11 @@
     lodash "^4.17.11"
     to-fast-properties "^2.0.0"
 
+"@ngrx/effects@^7.4.0":
+  version "7.4.0"
+  resolved "https://registry.yarnpkg.com/@ngrx/effects/-/effects-7.4.0.tgz#7d1977538cf85e42ab48fd648acdfbc8b52f93d3"
+  integrity sha512-YjgB17WnLCBDPjAkHduKWsLFSGLZryPaTjY3EIvMF+WTRPDlgC5SAv2n7p3YIei6g6IYcEvOwLWBqZHFUXTgBw==
+
 "@ngrx/entity@^7.4.0":
   version "7.4.0"
   resolved "https://registry.yarnpkg.com/@ngrx/entity/-/entity-7.4.0.tgz#634cdff1db9629ca0e64c1d6b1e43dc15f4e2ca6"
