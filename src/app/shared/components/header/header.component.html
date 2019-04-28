@@ -1,9 +1,35 @@
-<nav mat-tab-nav-bar>
+<nav mat-tab-nav-bar class="navbar">
   <a mat-tab-link
-      *ngFor="let link of navLinks"
-      [routerLink]="link.path"
-      routerLinkActive #rla="routerLinkActive"
-      [active]="rla.isActive">
+    *ngFor="let link of navLinks"
+    [routerLink]="link.path"
+    routerLinkActive #rla="routerLinkActive"
+    [active]="rla.isActive">
     {{link.label}}
   </a>
 </nav>
+
+<div class="toolbar">
+  <button mat-stroked-button [matMenuTriggerFor]="channelsSort">
+    Сортировка
+  </button>
+  <button mat-stroked-button [matMenuTriggerFor]="channelsGenres" class="toolbar__button">
+    Телеканалы
+  </button>
+</div>
+
+<mat-menu #channelsSort="matMenu">
+  <button mat-menu-item>По умолчанию</button>
+  <button mat-menu-item>По возрастанию (А-Я)</button>
+  <button mat-menu-item>По убыванию (Я-А)</button>
+</mat-menu>
+
+<mat-menu #channelsGenres="matMenu" class="toolbar__menu">
+  <mat-nav-list>
+    <mat-list-item> Pepper </mat-list-item>
+    <mat-list-item> Salt </mat-list-item>
+    <mat-list-item> Paprika </mat-list-item>
+  </mat-nav-list>
+  <button mat-menu-item>Сбросить выбор</button>
+</mat-menu>
+
+
