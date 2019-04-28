@@ -23,12 +23,15 @@
   <button mat-menu-item>По убыванию (Я-А)</button>
 </mat-menu>
 
-<mat-menu #channelsGenres="matMenu" class="toolbar__menu">
-  <mat-nav-list>
-    <mat-list-item> Pepper </mat-list-item>
-    <mat-list-item> Salt </mat-list-item>
-    <mat-list-item> Paprika </mat-list-item>
-  </mat-nav-list>
+<mat-menu #channelsGenres="matMenu" class="genres__menu" [overlapTrigger]="false">
+  <div class="list-wrapper">
+    <mat-nav-list>
+      <mat-list-item>Все телеканалы</mat-list-item>
+      <mat-list-item *ngFor="let genre of (genres$ | async); trackBy: trackByFn">
+        {{ genre.genreName }}
+      </mat-list-item>
+    </mat-nav-list>
+  </div>
   <button mat-menu-item>Сбросить выбор</button>
 </mat-menu>
 

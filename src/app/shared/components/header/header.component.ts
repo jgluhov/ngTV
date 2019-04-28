@@ -1,4 +1,8 @@
 import { Component, OnInit } from '@angular/core';
+import { Observable } from 'rxjs';
+import { IGenre } from '@interfaces/channel.interface';
+import * as fromChannels from '@channels/store/channels.state';
+import { select, Store } from '@ngrx/store';
 
 @Component({
   selector: 'app-header',
@@ -7,6 +11,9 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HeaderComponent implements OnInit {
   selected = '';
+
+  genres$: Observable<IGenre[]>;
+
   navLinks = [
     {
       path: 'first',
@@ -22,9 +29,16 @@ export class HeaderComponent implements OnInit {
     }
   ];
 
-  constructor() { }
+  constructor(
+    private store: Store<fromChannels.IChannelsState>
+  ) { }
 
   ngOnInit() {
+    this.genres$ = this.store.pipe(select(fromChannels.selectAllGenres));
+  }
+
+  trackByFn(_: number, item: IGenre) {
+    return item.genreID;
   }
 
 }

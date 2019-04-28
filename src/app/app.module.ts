@@ -10,6 +10,8 @@ import { EffectsModule } from '@ngrx/effects';
 import { HttpClientModule } from '@angular/common/http';
 import { SharedModule } from '@shared/shared.module';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import * as fromChannels from '@channels/store/channels.reducer';
+import { ChannelsEffects } from '@pages/channels/store/channels.effects';
 
 @NgModule({
   declarations: [
@@ -21,8 +23,12 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     AppRoutingModule,
     SharedModule,
     BrowserAnimationsModule,
-    StoreModule.forRoot({}),
-    EffectsModule.forRoot([]),
+    StoreModule.forRoot({
+      channels: fromChannels.channelsReducer
+    }),
+    EffectsModule.forRoot([
+      ChannelsEffects
+    ]),
     StoreDevtoolsModule.instrument({
       maxAge: 25,
       logOnly: environment.production
