@@ -1,10 +1,14 @@
 <button mat-stroked-button
   [matMenuTriggerFor]="menu"
+  #t="matMenuTrigger"
+  [class.fancy__trigger--opened]="t.menuOpen"
   class="fancy__trigger">
   <ng-content select="label"></ng-content>
 </button>
 
-<mat-menu #menu="matMenu"class="fancy__menu" (closed)="handleMenuClose()">
+<mat-menu #menu="matMenu"
+  class="fancy__menu"
+  (closed)="handleMenuClose()">
   <div class="fancy__list-wrapper">
     <mat-selection-list #selectionList
       class="fancy__selection-list"

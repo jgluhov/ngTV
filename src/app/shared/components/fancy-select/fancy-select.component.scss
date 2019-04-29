@@ -3,6 +3,10 @@
 }
 .fancy__trigger {
   width: 198px;
+
+  &--opened {
+    border-color: #ff9700;
+  }
 }
 
 .mat-menu-item.fancy__button {
