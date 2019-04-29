@@ -7,8 +7,11 @@ import {
   MatMenuModule,
   MatButtonModule,
   MatIconModule,
-  MatListModule
+  MatListModule,
+  MatSelectModule
 } from '@angular/material';
+import { FancySelectComponent } from './components/fancy-select/fancy-select.component';
+import { ReactiveFormsModule, FormsModule } from '@angular/forms';
 
 const materialModules = [
   MatTabsModule,
@@ -18,17 +21,24 @@ const materialModules = [
   MatListModule
 ];
 
+const components = [
+  HeaderComponent,
+  FancySelectComponent
+];
+
 @NgModule({
   declarations: [
-    HeaderComponent
+    ...components
   ],
   imports: [
     CommonModule,
     RouterModule,
+    FormsModule,
+    ReactiveFormsModule,
     ...materialModules
   ],
   exports: [
-    HeaderComponent,
+    ...components,
     ...materialModules
   ]
 })

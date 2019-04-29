@@ -1,0 +1,14 @@
+<button mat-stroked-button [matMenuTriggerFor]="menu" class="fancy__button">
+  <ng-content select="label"></ng-content>
+</button>
+
+<mat-menu #menu="matMenu" class="fancy__menu" backdropClass="fancy__backdrop">
+  <div class="list-wrapper">
+    <mat-nav-list>
+      <mat-list-item *ngFor="let option of options; trackBy: trackByFn">
+        {{ option.value }}
+      </mat-list-item>
+    </mat-nav-list>
+  </div>
+  <button mat-menu-item>Сбросить выбор</button>
+</mat-menu>

@@ -1,9 +1,12 @@
-.mat-menu-panel {
-  &.genres {
-    &__menu {
-      max-height: calc(240px - 48px);
-    }
-  }
+:host {
+  display: flex;
+}
+.fancy__button {
+  width: 150px;
+}
+
+.fancy__menu {
+  max-height: calc(240px - 48px);
 
   > .mat-menu-content {
     > .list-wrapper {
@@ -25,3 +28,4 @@
     overflow: auto;
   }
 }
+
