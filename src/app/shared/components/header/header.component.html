@@ -8,13 +8,19 @@
   </a>
 </nav>
 
-<div class="toolbar">
-  <app-fancy-select [options]="channelsSortOptions" class="toolbar__select">
-    <span #label>Сортировка</span>
+<div class="toolbar" [formGroup]="toolbarForm">
+  <app-fancy-select class="toolbar__select"
+    [options]="channelsSortOptions"
+    formControlName="sortBy">
+    <label>Сортировка</label>
   </app-fancy-select>
 
-  <app-fancy-select [options]="genreOptions$ | async" class="toolbar__select">
-    <span #label>Телеканалы</span>
+  <app-fancy-select
+    class="toolbar__select"
+    [options]="genreOptions$ | async"
+    hasDeselectButton="true"
+    formControlName="genres">
+    <label>Телеканалы</label>
   </app-fancy-select>
 </div>
 

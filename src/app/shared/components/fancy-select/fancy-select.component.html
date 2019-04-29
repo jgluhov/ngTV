@@ -1,14 +1,30 @@
-<button mat-stroked-button [matMenuTriggerFor]="menu" class="fancy__button">
+<button mat-stroked-button
+  [matMenuTriggerFor]="menu"
+  class="fancy__trigger">
   <ng-content select="label"></ng-content>
 </button>
 
-<mat-menu #menu="matMenu" class="fancy__menu" backdropClass="fancy__backdrop">
-  <div class="list-wrapper">
-    <mat-nav-list>
-      <mat-list-item *ngFor="let option of options; trackBy: trackByFn">
+<mat-menu #menu="matMenu"class="fancy__menu" (closed)="handleMenuClose()">
+  <div class="fancy__list-wrapper">
+    <mat-selection-list #selectionList
+      class="fancy__selection-list"
+      (click)="handleMouseDown($event)">
+
+      <mat-list-option *ngFor="let option of options; trackBy: trackByFn"
+        class="fancy__selection-list-item"
+        [value]="option.key"
+        [selected]="option.selected">
         {{ option.value }}
-      </mat-list-item>
-    </mat-nav-list>
+      </mat-list-option>
+
+    </mat-selection-list>
   </div>
-  <button mat-menu-item>Сбросить выбор</button>
+
+  <button *ngIf="hasDeselectButton"
+    mat-menu-item
+    class="fancy__button"
+    (click)="deselectAll()">
+    Сбросить выбор
+  </button>
+
 </mat-menu>

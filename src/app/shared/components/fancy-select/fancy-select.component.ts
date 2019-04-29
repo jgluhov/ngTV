@@ -1,32 +1,63 @@
-import { Component, OnInit, Input, ViewEncapsulation, ViewChild, ContentChild, ElementRef } from '@angular/core';
-import { FormBuilder } from '@angular/forms';
-import { Text } from '@angular/compiler';
+import { Component, Input, ViewEncapsulation, ViewChild, OnDestroy, forwardRef } from '@angular/core';
+import { ControlValueAccessor, NG_VALUE_ACCESSOR } from '@angular/forms';
+import { MatSelectionList } from '@angular/material';
+import { Subject } from 'rxjs';
+import { FancySelectOptionModel } from './fancy-select-option.model';
 
-export interface IFancySelectOption {
-  key: string;
-  value: string;
-}
+export const FANCY_SELECT_VALUE_ACCESSOR = {
+  provide: NG_VALUE_ACCESSOR,
+  useExisting: forwardRef(() => FancySelectComponent),
+  multi: true,
+};
 
 @Component({
   selector: 'app-fancy-select',
   templateUrl: './fancy-select.component.html',
   styleUrls: ['./fancy-select.component.scss'],
-  encapsulation: ViewEncapsulation.None
+  encapsulation: ViewEncapsulation.None,
+  providers: [FANCY_SELECT_VALUE_ACCESSOR]
 })
-export class FancySelectComponent implements OnInit {
-  @Input() options;
-  @ContentChild('label') labelEl;
+export class FancySelectComponent implements OnDestroy, ControlValueAccessor  {
+  @Input() options: FancySelectOptionModel[];
+  @Input() hasDeselectButton: boolean;
 
-  formGroup = this.fb.group({
-    selected: ['']
-  });
+  @ViewChild('selectionList') selectionList: MatSelectionList;
 
-  constructor(private fb: FormBuilder) { }
+  destroyer$: Subject<void> = new Subject();
+  onChange;
+  onTouch;
 
-  ngOnInit() {
+  handleMenuClose() {
+    const selectedIds = this.selectionList.selectedOptions.selected
+      .map((selectedOption) => selectedOption.value);
+
+    this.onChange(selectedIds);
   }
 
   trackByFn(indx: number) {
     return indx;
+  }
+
+  handleMouseDown(evt: Event) {
+    evt.stopPropagation();
+  }
+
+  deselectAll() {
+    this.selectionList.deselectAll();
+  }
+
+  ngOnDestroy() {
+    this.destroyer$.next();
+  }
+
+  writeValue(ids: string[]) {
+  }
+
+  registerOnChange(fn: any): void {
+    this.onChange = fn;
+  }
+
+  registerOnTouched(fn: any): void {
+    this.onTouch = fn;
   }
 }

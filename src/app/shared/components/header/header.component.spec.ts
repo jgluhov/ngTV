@@ -1,11 +1,13 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { HeaderComponent } from './header.component';
-import { NO_ERRORS_SCHEMA } from '@angular/core';
 import { RouterTestingModule } from '@angular/router/testing';
 import { IGenre } from '@interfaces/channel.interface';
 import { Store } from '@ngrx/store';
 import { of } from 'rxjs';
+import { ReactiveFormsModule } from '@angular/forms';
+import { FancySelectComponent } from '../fancy-select/fancy-select.component';
+import { MatMenuModule, MatTabsModule, MatListModule } from '@angular/material';
 
 describe('HeaderComponent', () => {
   let component: HeaderComponent;
@@ -17,12 +19,17 @@ describe('HeaderComponent', () => {
       pipe: () => of([])
     };
     TestBed.configureTestingModule({
-      imports: [ RouterTestingModule ],
-      declarations: [ HeaderComponent ],
+      imports: [
+        RouterTestingModule,
+        ReactiveFormsModule,
+        MatMenuModule,
+        MatTabsModule,
+        MatListModule
+      ],
+      declarations: [ HeaderComponent, FancySelectComponent ],
       providers: [
         { provide: Store, useValue: store }
-      ],
-      schemas: [ NO_ERRORS_SCHEMA ]
+      ]
     })
     .compileComponents();
   }));

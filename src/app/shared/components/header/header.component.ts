@@ -4,8 +4,9 @@ import { IGenre } from '@interfaces/channel.interface';
 import * as fromChannels from '@channels/store/channels.state';
 import { select, Store } from '@ngrx/store';
 import { map } from 'rxjs/operators';
-import { IFancySelectOption } from '@shared/components/fancy-select/fancy-select.component';
 import { ChannelsSortEnum } from '@pages/channels/enums/channels-sort.enum';
+import { FormBuilder } from '@angular/forms';
+import { FancySelectOptionModel } from '../fancy-select/fancy-select-option.model';
 
 @Component({
   selector: 'app-header',
@@ -15,7 +16,7 @@ import { ChannelsSortEnum } from '@pages/channels/enums/channels-sort.enum';
 export class HeaderComponent implements OnInit {
   selected = '';
 
-  genreOptions$: Observable<IFancySelectOption[]>;
+  genreOptions$: Observable<FancySelectOptionModel[]>;
 
   navLinks = [
     { path: 'first', label: 'First' },
@@ -23,23 +24,31 @@ export class HeaderComponent implements OnInit {
     { path: 'channels', label: 'Телеканалы' }
   ];
 
-  channelsSortOptions: IFancySelectOption[] = [
-    { key: ChannelsSortEnum.DEFAULT, value: 'По умолчанию' },
-    { key: ChannelsSortEnum.ASC, value: 'По возрастанию (А-Я)' },
-    { key: ChannelsSortEnum.DESC, value: 'По убыванию (Я-А)' }
+  channelsSortOptions: FancySelectOptionModel[] = [
+    new FancySelectOptionModel('По умолчанию', ChannelsSortEnum.DEFAULT, true),
+    new FancySelectOptionModel('По возрастанию (А-Я)', ChannelsSortEnum.ASC),
+    new FancySelectOptionModel('По убыванию (Я-А)', ChannelsSortEnum.DESC),
   ];
 
+  toolbarForm = this.fb.group({
+    sortBy: [''],
+    genres: ['']
+  });
+
   constructor(
-    private store: Store<fromChannels.IChannelsState>
+    private store: Store<fromChannels.IChannelsState>,
+    private fb: FormBuilder
   ) { }
 
   ngOnInit() {
     this.genreOptions$ = this.store.pipe(
       select(fromChannels.selectAllGenres),
       map((genres: IGenre[]) => {
-        return genres.map(({ genreID, genreName }) => ({ key: genreID, value: genreName }));
+        return genres.map(({ genreID, genreName }) => new FancySelectOptionModel(genreName, genreID));
       })
     );
+
+    this.toolbarForm.valueChanges.subscribe(console.log);
   }
 
 }
