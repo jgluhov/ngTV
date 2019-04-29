@@ -1,6 +1,13 @@
-import { Component, Input, ViewEncapsulation, ViewChild, OnDestroy, forwardRef } from '@angular/core';
+import {
+  Component,
+  Input,
+  ViewEncapsulation,
+  ViewChild,
+  OnDestroy,
+  forwardRef
+} from '@angular/core';
 import { ControlValueAccessor, NG_VALUE_ACCESSOR } from '@angular/forms';
-import { MatSelectionList } from '@angular/material';
+import { MatSelectionList, MatSelectionListChange } from '@angular/material';
 import { Subject } from 'rxjs';
 import { FancySelectOptionModel } from './fancy-select-option.model';
 
@@ -20,6 +27,7 @@ export const FANCY_SELECT_VALUE_ACCESSOR = {
 export class FancySelectComponent implements OnDestroy, ControlValueAccessor  {
   @Input() options: FancySelectOptionModel[];
   @Input() hasDeselectButton: boolean;
+  @Input() multiple: boolean;
 
   @ViewChild('selectionList') selectionList: MatSelectionList;
 
@@ -38,6 +46,13 @@ export class FancySelectComponent implements OnDestroy, ControlValueAccessor  {
     return indx;
   }
 
+  handleSelectionChange({ option }: MatSelectionListChange) {
+    if (!this.multiple) {
+      this.deselectAll();
+      option.selected = true;
+    }
+  }
+
   handleMouseDown(evt: Event) {
     evt.stopPropagation();
   }
@@ -50,7 +65,7 @@ export class FancySelectComponent implements OnDestroy, ControlValueAccessor  {
     this.destroyer$.next();
   }
 
-  writeValue(ids: string[]) {
+  writeValue() {
   }
 
   registerOnChange(fn: any): void {

@@ -19,7 +19,8 @@
     class="toolbar__select"
     [options]="genreOptions$ | async"
     hasDeselectButton="true"
-    formControlName="genres">
+    formControlName="genres"
+    multiple="true">
     <label>Телеканалы</label>
   </app-fancy-select>
 </div>

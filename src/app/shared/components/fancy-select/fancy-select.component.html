@@ -8,6 +8,7 @@
   <div class="fancy__list-wrapper">
     <mat-selection-list #selectionList
       class="fancy__selection-list"
+      (selectionChange)="handleSelectionChange($event)"
       (click)="handleMouseDown($event)">
 
       <mat-list-option *ngFor="let option of options; trackBy: trackByFn"

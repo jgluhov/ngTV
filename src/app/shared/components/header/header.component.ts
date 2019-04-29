@@ -50,5 +50,4 @@ export class HeaderComponent implements OnInit {
 
     this.toolbarForm.valueChanges.subscribe(console.log);
   }
-
 }
