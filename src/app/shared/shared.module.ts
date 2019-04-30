@@ -1,4 +1,4 @@
-import { NgModule, forwardRef } from '@angular/core';
+import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { HeaderComponent } from './components/header/header.component';
 import { RouterModule } from '@angular/router';
@@ -7,17 +7,19 @@ import {
   MatMenuModule,
   MatButtonModule,
   MatIconModule,
-  MatListModule
+  MatListModule,
+  MatCardModule
 } from '@angular/material';
 import { FancySelectComponent } from './components/fancy-select/fancy-select.component';
-import { ReactiveFormsModule, FormsModule, NG_VALUE_ACCESSOR } from '@angular/forms';
+import { ReactiveFormsModule, FormsModule } from '@angular/forms';
 
 const materialModules = [
   MatTabsModule,
   MatMenuModule,
   MatButtonModule,
   MatIconModule,
-  MatListModule
+  MatListModule,
+  MatCardModule
 ];
 
 const components = [

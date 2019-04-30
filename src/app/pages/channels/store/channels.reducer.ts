@@ -12,6 +12,20 @@ export const channelsReducer = (
       return channelsAdapter.addAll(action.payload.channels, state);
     }
 
+    case ChannelsActions.ActionTypes.ChangeSortBy: {
+      return {
+        ...state,
+        sortBy: action.payload.sortBy
+      };
+    }
+
+    case ChannelsActions.ActionTypes.ChangeFilterBy: {
+      return {
+        ...state,
+        filterBy: action.payload.filterBy
+      };
+    }
+
     default: {
       return state;
     }

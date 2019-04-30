@@ -1,6 +1,7 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { ChannelCardComponent } from './channel-card.component';
+import { NO_ERRORS_SCHEMA } from '@angular/core';
 
 describe('ChannelCardComponent', () => {
   let component: ChannelCardComponent;
@@ -8,7 +9,8 @@ describe('ChannelCardComponent', () => {
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ ChannelCardComponent ]
+      declarations: [ ChannelCardComponent ],
+      schemas: [ NO_ERRORS_SCHEMA ]
     })
     .compileComponents();
   }));

@@ -1,8 +1,9 @@
 import { Component, OnInit } from '@angular/core';
 import { Store, select } from '@ngrx/store';
 import * as fromChannels from '@channels/store/channels.state';
-import { IChannel, IGenre } from '@interfaces/channel.interface';
-import { Observable } from 'rxjs';
+import { IChannel } from '@interfaces/channel.interface';
+import { Observable, Subject, combineLatest, ReplaySubject } from 'rxjs';
+import { scan, map, startWith } from 'rxjs/operators';
 
 @Component({
   selector: 'app-channels',
@@ -11,16 +12,41 @@ import { Observable } from 'rxjs';
 })
 export class ChannelsComponent implements OnInit {
   channels$: Observable<IChannel[]>;
-  genres$: Observable<IGenre[]>;
+
+  visibleChannels$: Observable<IChannel[]>;
+  channelsHandler$ = new ReplaySubject();
+
+  query = { offset: 0, limit: 24, channels: [] };
 
   constructor(private store: Store<fromChannels.IChannelsState>) { }
 
   ngOnInit() {
     this.channels$ = this.store.pipe(select(fromChannels.selectAllChannels));
-    this.genres$ = this.store.pipe(select(fromChannels.selectAllGenres));
 
-    this.channels$.subscribe(console.log);
-    this.genres$.subscribe(console.log);
+    this.visibleChannels$ = combineLatest([this.channelsHandler$, this.channels$])
+      .pipe(
+        map(([_, channels]) => channels),
+        scan((state, channels: IChannel[]) => {
+          const { offset, limit } = this.query;
+
+          const newState = {
+            ...this.query,
+            channels: [
+              ...state.channels,
+              ...channels.slice(offset, offset + limit)
+            ]
+          };
+
+          return newState;
+        }, this.query),
+        map(({channels}) => channels),
+        startWith([])
+      );
+
+    // this.visibleChannels$.subscribe(console.log);
+
+    this.channelsHandler$.next();
+    // this.channels$.subscribe(console.log);
   }
 
 }

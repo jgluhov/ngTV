@@ -1,9 +1,9 @@
-import { Component, OnInit } from '@angular/core';
-import { Observable } from 'rxjs';
+import { Component, OnInit, OnDestroy } from '@angular/core';
+import { Observable, Subject } from 'rxjs';
 import { IGenre } from '@interfaces/channel.interface';
 import * as fromChannels from '@channels/store/channels.state';
 import { select, Store } from '@ngrx/store';
-import { map } from 'rxjs/operators';
+import { map, tap, takeUntil } from 'rxjs/operators';
 import { ChannelsSortEnum } from '@pages/channels/enums/channels-sort.enum';
 import { FormBuilder } from '@angular/forms';
 import { FancySelectOptionModel } from '../fancy-select/fancy-select-option.model';
@@ -13,10 +13,9 @@ import { FancySelectOptionModel } from '../fancy-select/fancy-select-option.mode
   templateUrl: './header.component.html',
   styleUrls: ['./header.component.scss']
 })
-export class HeaderComponent implements OnInit {
-  selected = '';
-
+export class HeaderComponent implements OnInit, OnDestroy {
   genreOptions$: Observable<FancySelectOptionModel[]>;
+  toolbarState$: Observable<fromChannels.IToolbarState>;
 
   navLinks = [
     { path: 'first', label: 'First' },
@@ -32,8 +31,10 @@ export class HeaderComponent implements OnInit {
 
   toolbarForm = this.fb.group({
     sortBy: [''],
-    genres: ['']
+    filterBy: ['']
   });
+
+  destroyer$ = new Subject();
 
   constructor(
     private store: Store<fromChannels.IChannelsState>,
@@ -48,6 +49,18 @@ export class HeaderComponent implements OnInit {
       })
     );
 
+    this.store.pipe(
+      select(fromChannels.selectToolbarState),
+      takeUntil(this.destroyer$),
+      tap((toolbarState) => {
+        this.toolbarForm.patchValue(toolbarState, { emitEvent: false });
+      })
+    ).subscribe();
+
     this.toolbarForm.valueChanges.subscribe(console.log);
+  }
+
+  ngOnDestroy() {
+    this.destroyer$.next();
   }
 }

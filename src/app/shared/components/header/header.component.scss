@@ -3,6 +3,11 @@
   width: 100%;
   align-items: flex-end;
   justify-content: space-between;
+  flex-wrap: wrap;
+
+  @media screen and (max-width: 1130px) {
+    justify-content: center;
+  }
 }
 
 .toolbar {
@@ -13,4 +18,8 @@
   &__select:first-child {
     margin-right: 15px;
   }
+}
+
+.navbar {
+  margin-right: 16px;
 }

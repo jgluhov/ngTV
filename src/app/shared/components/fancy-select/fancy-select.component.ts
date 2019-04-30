@@ -7,7 +7,7 @@ import {
   forwardRef
 } from '@angular/core';
 import { ControlValueAccessor, NG_VALUE_ACCESSOR } from '@angular/forms';
-import { MatSelectionList, MatSelectionListChange } from '@angular/material';
+import { MatSelectionList, MatSelectionListChange, MatListItem, MatListOption } from '@angular/material';
 import { Subject } from 'rxjs';
 import { FancySelectOptionModel } from './fancy-select-option.model';
 
@@ -54,7 +54,17 @@ export class FancySelectComponent implements OnDestroy, ControlValueAccessor  {
   }
 
   handleMouseDown(evt: Event) {
-    evt.stopPropagation();
+    if (this.multiple) {
+      evt.stopPropagation();
+    }
+  }
+
+  selectOption(option: MatListOption) {
+    if (!this.multiple) {
+      this.deselectAll();
+    }
+
+    option.selected = true;
   }
 
   deselectAll() {
@@ -65,7 +75,12 @@ export class FancySelectComponent implements OnDestroy, ControlValueAccessor  {
     this.destroyer$.next();
   }
 
-  writeValue() {
+  writeValue(value: string | string[]) {
+    setTimeout(() => {
+      this.selectionList.options
+        .filter(option => value.includes(option.value))
+        .forEach(option => this.selectOption(option));
+    });
   }
 
   registerOnChange(fn: any): void {

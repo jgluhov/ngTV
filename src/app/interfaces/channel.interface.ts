@@ -5,7 +5,9 @@ export interface IGenre {
 }
 
 export interface IPictureList {
-  [index: string]: string[];
+  backgrounds: string[];
+  channelBlackWhites: string[];
+  channelPics: string[];
 }
 
 export interface IChannel {
