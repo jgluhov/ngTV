@@ -7,11 +7,7 @@ import { ChannelsSortEnum } from '@channels/enums/channels-sort.enum';
 export interface IChannelsState extends EntityState<IChannel> {
   sortBy: string;
   filterBy: string[];
-}
-
-export interface IToolbarState {
-  sortBy: string;
-  filterBy: string;
+  visibilityFilter: IChannel[];
 }
 
 export const channelsAdapter: EntityAdapter<IChannel> = createEntityAdapter<IChannel>({
@@ -20,7 +16,8 @@ export const channelsAdapter: EntityAdapter<IChannel> = createEntityAdapter<ICha
 
 export const channelsInitialState = channelsAdapter.getInitialState({
   sortBy: ChannelsSortEnum.ASC,
-  filterBy: []
+  filterBy: [],
+  visibilityFilter: []
 });
 
 export const selectChannelsState = createFeatureSelector<IChannelsState>('channels');
@@ -41,7 +38,7 @@ export const selectAllGenres = createSelector(
   }
 );
 
-export const selectToolbarState = createSelector(
+export const selectToolbarFormValue = createSelector(
   selectChannelsState,
   ({ sortBy, filterBy }: IChannelsState) => {
     return {

@@ -7,7 +7,8 @@ export enum ActionTypes {
   LoadChannelsSuccess = '[Channels] Load Channels Success',
   LoadChannelsFailure = '[Channels] Load Channels Failure',
   ChangeSortBy = '[Channels] Change Sort By',
-  ChangeFilterBy = '[Channels] Change Filter By'
+  ChangeFilterBy = '[Channels] Change Filter By',
+  ChangeToolbarForm = '[Channels] Change Toolbar Form'
 }
 
 export class LoadChannels implements Action {
@@ -42,9 +43,19 @@ export class ChangeFilterBy implements Action {
   }) {}
 }
 
+export class ChangeToolbarForm implements Action {
+  readonly type = ActionTypes.ChangeToolbarForm;
+
+  constructor(public payload: {
+    filterBy: string[],
+    sortBy: ChannelsSortEnum;
+  }) {}
+}
+
 export type ActionsUnion =
   LoadChannels |
   LoadChannelsSuccess |
   LoadChannelsFailure |
   ChangeSortBy |
-  ChangeFilterBy;
+  ChangeFilterBy |
+  ChangeToolbarForm;

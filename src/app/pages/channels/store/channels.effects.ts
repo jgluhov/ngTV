@@ -25,6 +25,18 @@ export class ChannelsEffects {
       )
     );
 
+  @Effect()
+  changeToolbarForm$ = this.actions$
+    .pipe(
+      ofType(channelsActions.ActionTypes.ChangeToolbarForm),
+      switchMap(({ payload: { sortBy, filterBy } }) => {
+        return [
+          new channelsActions.ChangeFilterBy({ filterBy }),
+          new channelsActions.ChangeSortBy({ sortBy })
+        ];
+      })
+    );
+
   ngrxOnInitEffects(): Action {
     return new channelsActions.LoadChannels();
   }

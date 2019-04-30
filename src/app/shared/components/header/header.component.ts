@@ -7,6 +7,12 @@ import { map, tap, takeUntil } from 'rxjs/operators';
 import { ChannelsSortEnum } from '@pages/channels/enums/channels-sort.enum';
 import { FormBuilder } from '@angular/forms';
 import { FancySelectOptionModel } from '../fancy-select/fancy-select-option.model';
+import * as channelsActions from '@channels/store/channels.actions';
+
+interface IToolbarFormValue {
+  sortBy: ChannelsSortEnum;
+  filterBy: string[];
+}
 
 @Component({
   selector: 'app-header',
@@ -15,7 +21,7 @@ import { FancySelectOptionModel } from '../fancy-select/fancy-select-option.mode
 })
 export class HeaderComponent implements OnInit, OnDestroy {
   genreOptions$: Observable<FancySelectOptionModel[]>;
-  toolbarState$: Observable<fromChannels.IToolbarState>;
+  toolbarForm$: Observable<IToolbarFormValue>;
 
   navLinks = [
     { path: 'first', label: 'First' },
@@ -50,14 +56,18 @@ export class HeaderComponent implements OnInit, OnDestroy {
     );
 
     this.store.pipe(
-      select(fromChannels.selectToolbarState),
+      select(fromChannels.selectToolbarFormValue),
       takeUntil(this.destroyer$),
       tap((toolbarState) => {
         this.toolbarForm.patchValue(toolbarState, { emitEvent: false });
       })
     ).subscribe();
 
-    this.toolbarForm.valueChanges.subscribe(console.log);
+    this.toolbarForm.valueChanges
+      .pipe(takeUntil(this.destroyer$))
+      .subscribe((changes: IToolbarFormValue) => {
+        this.store.dispatch( new channelsActions.ChangeToolbarForm(changes) );
+      });
   }
 
   ngOnDestroy() {
