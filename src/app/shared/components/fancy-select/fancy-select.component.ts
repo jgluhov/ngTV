@@ -39,7 +39,11 @@ export class FancySelectComponent implements OnDestroy, ControlValueAccessor  {
     const selectedIds = this.selectionList.selectedOptions.selected
       .map((selectedOption) => selectedOption.value);
 
-    this.onChange(selectedIds);
+    if (this.multiple) {
+      this.onChange(selectedIds);
+    } else {
+      this.onChange(selectedIds[0]);
+    }
   }
 
   trackByFn(indx: number) {

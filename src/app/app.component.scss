@@ -16,6 +16,10 @@ main {
 
   width: 100%;
   height: 100%;
+
+  @media screen and (max-width: 1130px) {
+    grid-template-rows: 98px 1fr;
+  }
 }
 
 .page {

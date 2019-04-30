@@ -1,4 +1,11 @@
-<section class="channels__list">
-  <app-channel-card *ngFor="let channel of (visibleChannels$ | async)" [channel]="channel">
-  </app-channel-card>
-</section>
+<ng-container *ngIf="(channelsList$ | async) as channelsList">
+  <div class="channels__list">
+    <app-channel-card *ngFor="let channel of channelsList.channels" [channel]="channel">
+    </app-channel-card>
+  </div>
+  <div class="channels__footer">
+    <button mat-button (click)="loadMore()" *ngIf="isBtnVisible(channelsList)">Показать еще</button>
+  </div>
+</ng-container>
+
+

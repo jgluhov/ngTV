@@ -2,8 +2,13 @@ import { Component, OnInit } from '@angular/core';
 import { Store, select } from '@ngrx/store';
 import * as fromChannels from '@channels/store/channels.state';
 import { IChannel } from '@interfaces/channel.interface';
-import { Observable, Subject, combineLatest, ReplaySubject } from 'rxjs';
-import { scan, map, startWith } from 'rxjs/operators';
+import { Observable, Subject, combineLatest, BehaviorSubject } from 'rxjs';
+import { scan, map, startWith, withLatestFrom, switchMap } from 'rxjs/operators';
+
+type TQuery = {
+  offset: number,
+  limit: number
+};
 
 @Component({
   selector: 'app-channels',
@@ -12,41 +17,38 @@ import { scan, map, startWith } from 'rxjs/operators';
 })
 export class ChannelsComponent implements OnInit {
   channels$: Observable<IChannel[]>;
-
-  visibleChannels$: Observable<IChannel[]>;
-  channelsHandler$ = new ReplaySubject();
-
-  query = { offset: 0, limit: 24, channels: [] };
+  channelsList$: Observable<{ channels: IChannel[], total: number }>;
+  chunkSize = 24;
+  channelsLength = 0;
+  channelsLength$ = new BehaviorSubject(this.channelsLength);
 
   constructor(private store: Store<fromChannels.IChannelsState>) { }
 
   ngOnInit() {
-    this.channels$ = this.store.pipe(select(fromChannels.selectAllChannels));
+    this.channels$ = this.store.pipe(
+      select(fromChannels.selectVisibleChannels)
+    );
 
-    this.visibleChannels$ = combineLatest([this.channelsHandler$, this.channels$])
+    this.channelsList$ = combineLatest([this.channels$, this.channelsLength$])
       .pipe(
-        map(([_, channels]) => channels),
-        scan((state, channels: IChannel[]) => {
-          const { offset, limit } = this.query;
-
-          const newState = {
-            ...this.query,
-            channels: [
-              ...state.channels,
-              ...channels.slice(offset, offset + limit)
-            ]
+        map(([channels, channelsLength]: [IChannel[], number]) => {
+          return {
+            channels: channels.slice(0, channelsLength),
+            total: channels.length
           };
-
-          return newState;
-        }, this.query),
-        map(({channels}) => channels),
-        startWith([])
+        })
       );
 
-    // this.visibleChannels$.subscribe(console.log);
+    this.loadMore();
+  }
 
-    this.channelsHandler$.next();
-    // this.channels$.subscribe(console.log);
+  loadMore() {
+    this.channelsLength += this.chunkSize;
+    this.channelsLength$.next(this.channelsLength);
+  }
+
+  isBtnVisible(channelsList) {
+    return channelsList.channels.length !== channelsList.total;
   }
 
 }

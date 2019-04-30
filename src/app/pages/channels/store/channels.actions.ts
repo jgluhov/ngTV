@@ -27,22 +27,6 @@ export class LoadChannelsFailure implements Action {
   readonly type = ActionTypes.LoadChannelsFailure;
 }
 
-export class ChangeSortBy implements Action {
-  readonly type = ActionTypes.ChangeSortBy;
-
-  constructor(public payload: {
-    sortBy: ChannelsSortEnum;
-  }) {}
-}
-
-export class ChangeFilterBy implements Action {
-  readonly type = ActionTypes.ChangeFilterBy;
-
-  constructor(public payload: {
-    filterBy: string[];
-  }) {}
-}
-
 export class ChangeToolbarForm implements Action {
   readonly type = ActionTypes.ChangeToolbarForm;
 
@@ -56,6 +40,4 @@ export type ActionsUnion =
   LoadChannels |
   LoadChannelsSuccess |
   LoadChannelsFailure |
-  ChangeSortBy |
-  ChangeFilterBy |
   ChangeToolbarForm;

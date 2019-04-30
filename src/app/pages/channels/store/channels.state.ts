@@ -7,7 +7,6 @@ import { ChannelsSortEnum } from '@channels/enums/channels-sort.enum';
 export interface IChannelsState extends EntityState<IChannel> {
   sortBy: string;
   filterBy: string[];
-  visibilityFilter: IChannel[];
 }
 
 export const channelsAdapter: EntityAdapter<IChannel> = createEntityAdapter<IChannel>({
@@ -16,8 +15,7 @@ export const channelsAdapter: EntityAdapter<IChannel> = createEntityAdapter<ICha
 
 export const channelsInitialState = channelsAdapter.getInitialState({
   sortBy: ChannelsSortEnum.ASC,
-  filterBy: [],
-  visibilityFilter: []
+  filterBy: []
 });
 
 export const selectChannelsState = createFeatureSelector<IChannelsState>('channels');
@@ -45,6 +43,41 @@ export const selectToolbarFormValue = createSelector(
       sortBy,
       filterBy
     };
+  }
+);
+
+export const selectVisibleChannels = createSelector(
+  selectAllChannels,
+  selectChannelsState,
+  (channels, { sortBy, filterBy }) => {
+
+    const channelsToSort = [...channels];
+
+    return channelsToSort.sort((channelA, channelB) => {
+      if (sortBy === ChannelsSortEnum.DEFAULT) {
+        return 0;
+      }
+
+      if (sortBy === ChannelsSortEnum.ASC) {
+        if (channelA.name > channelB.name) {
+          return 1;
+        } else if (channelA.name < channelB.name) {
+          return -1;
+        } else {
+          return 0;
+        }
+      }
+
+      if (sortBy === ChannelsSortEnum.DESC) {
+        if (channelA.name < channelB.name) {
+          return 1;
+        } else if (channelA.name > channelB.name) {
+          return -1;
+        } else {
+          return 0;
+        }
+      }
+    });
   }
 );
 

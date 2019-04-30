@@ -18,3 +18,9 @@
     grid-template-columns: repeat(2, [col-start] minmax(160px, 1fr) [col-end]);
   }
 }
+
+.channels__footer {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 100px
+}
