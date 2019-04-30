@@ -3,10 +3,10 @@ import * as ChannelsActions from '@channels/store/channels.actions';
 import { channelsInitialState } from '@channels/store/channels.state';
 import { channelsAdapter } from '@channels/store/channels.state';
 
-export const channelsReducer = (
+export function channelsReducer(
   state = channelsInitialState,
   action: ActionsUnion
-) => {
+) {
   switch (action.type) {
     case ChannelsActions.ActionTypes.LoadChannelsSuccess: {
       return channelsAdapter.addAll(action.payload.channels, state);
