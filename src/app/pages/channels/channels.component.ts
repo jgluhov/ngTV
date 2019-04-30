@@ -3,7 +3,7 @@ import { Store, select } from '@ngrx/store';
 import * as fromChannels from '@channels/store/channels.state';
 import { IChannel } from '@interfaces/channel.interface';
 import { Observable, Subject, combineLatest, BehaviorSubject } from 'rxjs';
-import { scan, map, startWith, withLatestFrom, switchMap } from 'rxjs/operators';
+import { scan, map, startWith, withLatestFrom, switchMap, pairwise, tap } from 'rxjs/operators';
 
 type TQuery = {
   offset: number,
@@ -26,7 +26,15 @@ export class ChannelsComponent implements OnInit {
 
   ngOnInit() {
     this.channels$ = this.store.pipe(
-      select(fromChannels.selectVisibleChannels)
+      select(fromChannels.selectVisibleChannels),
+      pairwise(),
+      tap(([prevChannels, nextChannels]) => {
+        if (prevChannels.length !== nextChannels.length) {
+          this.restoreList();
+        }
+      }),
+      map(([_, nextChannels]) => nextChannels),
+      startWith([])
     );
 
     this.channelsList$ = combineLatest([this.channels$, this.channelsLength$])
@@ -44,6 +52,11 @@ export class ChannelsComponent implements OnInit {
 
   loadMore() {
     this.channelsLength += this.chunkSize;
+    this.channelsLength$.next(this.channelsLength);
+  }
+
+  restoreList() {
+    this.channelsLength = this.chunkSize;
     this.channelsLength$.next(this.channelsLength);
   }
 

@@ -1,7 +1,7 @@
 import { IChannel } from '@interfaces/channel.interface';
 import { EntityState, EntityAdapter, createEntityAdapter } from '@ngrx/entity';
 import { createFeatureSelector, createSelector } from '@ngrx/store';
-import { uniqBy } from 'lodash';
+import { uniqBy, intersection, size } from 'lodash';
 import { ChannelsSortEnum } from '@channels/enums/channels-sort.enum';
 
 export interface IChannelsState extends EntityState<IChannel> {
@@ -53,7 +53,7 @@ export const selectVisibleChannels = createSelector(
 
     const channelsToSort = [...channels];
 
-    return channelsToSort.sort((channelA, channelB) => {
+    channelsToSort.sort((channelA, channelB) => {
       if (sortBy === ChannelsSortEnum.DEFAULT) {
         return 0;
       }
@@ -78,6 +78,14 @@ export const selectVisibleChannels = createSelector(
         }
       }
     });
+
+    if (filterBy.length) {
+      return channelsToSort.filter((channel) => {
+        return size(intersection(filterBy, channel.genres.map(genre => genre.genreID)));
+      });
+    }
+
+    return channelsToSort;
   }
 );
 
