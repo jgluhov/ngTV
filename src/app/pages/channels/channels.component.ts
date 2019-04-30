@@ -27,14 +27,14 @@ export class ChannelsComponent implements OnInit {
   ngOnInit() {
     this.channels$ = this.store.pipe(
       select(fromChannels.selectVisibleChannels),
+      startWith([]),
       pairwise(),
       tap(([prevChannels, nextChannels]) => {
         if (prevChannels.length !== nextChannels.length) {
           this.restoreList();
         }
       }),
-      map(([_, nextChannels]) => nextChannels),
-      startWith([])
+      map(([_, nextChannels]) => nextChannels)
     );
 
     this.channelsList$ = combineLatest([this.channels$, this.channelsLength$])
