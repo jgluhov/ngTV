@@ -1,8 +1,14 @@
 .channel-card {
   height: 100%;
   width: 100%;
+  position: relative;
+  transition: all 0.5s ease;
 
   img {
     height: 96px;
+  }
+
+  &:hover {
+    transform: scale(1.1)
   }
 }

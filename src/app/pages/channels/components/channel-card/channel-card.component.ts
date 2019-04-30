@@ -1,4 +1,4 @@
-import { Component, OnInit, Input } from '@angular/core';
+import { Component, OnInit, Input, HostListener } from '@angular/core';
 import { IChannel } from '@interfaces/channel.interface';
 
 @Component({
